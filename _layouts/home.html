@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% for page in paginator.posts %}
+  {% include drop-ins/page-single.html %}
+{% endfor %}
+
+{% include drop-ins/pagination.html %}

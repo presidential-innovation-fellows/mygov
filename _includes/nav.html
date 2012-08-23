@@ -1,0 +1,20 @@
+<div class="two-col navigation">
+<div class="sticky-nav-container">
+<nav id="nav-wrap" class="group">
+<div id="menu-icon">
+	<div class="icon">
+		<span class="line"></span>
+		<span class="line"></span>
+		<span class="line"></span>
+	</div>
+	Menu
+</div>
+<ul class="page-list group" role="menu" id="nav">
+	<li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="{{ site.url }}">Home<div class="arrow"></div><div class="arrow"></div></a>
+	<li{% if page.url == "/about/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/about/">The Project<div class="arrow"></div></a>
+	<li{% if page.url == "/team/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/team/">The Team<div class="arrow"></div></a>
+	<li{% if page.url == "/contact/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/contact">The Conversation<div class="arrow"></div></a>
+</ul>
+</nav><!--/nav-->
+</div><!--.sticky-nav-container -->
+</div><!--/two-col-->

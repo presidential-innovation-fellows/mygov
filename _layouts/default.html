@@ -1,0 +1,20 @@
+{% include header.html %}
+{% include nav.html %}
+{% include masthead.html %}
+
+<div class="eight-col" id="content">
+	<div class="seven-col">
+
+		{{ content }}
+
+		{% if page.comments %}
+		    {% include drop-ins/comments.html %}
+		{% endif %}
+
+	</div><!--/seven-col -->
+</div><!--/eight-col content main -->
+
+{% include sidebar.html %}
+{% include tail.html %}
+{% include proscenium.html %}
+{% include footer.html %}

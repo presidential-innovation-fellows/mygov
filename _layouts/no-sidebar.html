@@ -1,0 +1,9 @@
+{% include header.html %}
+{% include nav.html %}
+
+{{ content }}
+{% if page.comments %}
+	{% include drop-ins/comments.html %}
+{% endif %}
+
+{% include footer.html %}

@@ -1,0 +1,33 @@
+---
+layout: none
+---
+
+/* TEAM */
+
+	Phil Ashlock
+	Twitter: @philipashlock
+	From: Brooklyn, NY
+	
+	Benjamin J. Balter
+	Twitter: @benbalter
+	From: Washington, DC
+	
+	Danny Chapman
+	Twitter: @dannychapman
+	From: Riverside, RI
+	
+	Kara Defrais
+	Twitter: @CaliforniaKara
+	From: Sandiego, CA
+	
+	Greg Gershman
+	Twitter: @greggresh
+	From: Baltimore, MD
+
+/* SITE */
+
+Last Update: {{ site.time }}
+Generator: Jekyll
+Hosting: GitHub Pages
+Standards: HTML5, CSS3
+Components: HTMl5 Boilerplate, jQuery, Mondernizr
