@@ -8,7 +8,7 @@ At the core, we’re looking for ways to improve the way people and government c
 
 If you’ve ever been to the post office, visited a government website, or applied for financial aid and thought, “Why did they do it this way?” or “I wish they’d thought of...” then we want to hear from you!
 
-* [Follow us on Twitter](http://bit.ly/MyGovTwitter){.twitter}.
-* [Join the conversation on Facebook](http://bit.ly/MyGovFacebook){.facebook}.
-* [Visit us on IdeaScale to add your idea, give feedback on others and vote](http://bit.ly/MyGovIdeaScale){.IdeaScale}.
-* [Fork and contribute on GitHub](http://bit.ly/MyGovGitHub){.GitHub}. 
+* [Follow us on Twitter](http://bit.ly/mygovtwitter){.twitter}.
+* [Join the conversation on Facebook](http://bit.ly/mygovfacebook){.facebook}.
+* [Visit us on IdeaScale to add your idea, give feedback on others and vote](http://bit.ly/mygovideascale){.IdeaScale}.
+* [Fork and contribute on GitHub](http://bit.ly/mygovgithub){.GitHub}. 
