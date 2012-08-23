@@ -1,7 +1,9 @@
 MyGov Blog
 ==========
 
-Jekyll powered website for the MyGov Presidential Innovation Fellows Project
+Jekyll powered website for the MyGov Presidential Innovation Fellows Project. 
+
+[Live site](http://presidential-innovation-fellows.github.com/mygov/)
 
 Features
 --------
