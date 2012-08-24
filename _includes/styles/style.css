@@ -1,3 +1,6 @@
+/*** PIF Blog Template ***/
+
+
 /* _________________________________________________
 320 and Up boilerplate extension
 Andy Clarke http://about.me/malarkey
@@ -315,9 +318,6 @@ div.arrow {
 NAV
 *************************************************************************************/
 
-
-
-
 #nav-wrap {
 	margin-top: 196px;
 }
@@ -331,22 +331,17 @@ NAV
 #nav li {
 	margin: 0;
 	position: relative;
-
 	padding: 0 30px 0 0;
 }
 
 #nav li span {padding-right: 10px; display: block; z-index: 400;}
 
-
-
 .wrapper #nav ul {margin: 0; padding: 0; border: 1px solid red;}
 
 #nav li {
 	list-style: none;
-
 	margin-right:0;
 	display: block;
-	
 	width: 100%;
 	padding: 0;
 	margin: 0;
@@ -396,14 +391,13 @@ form#search_form {
 
 form#search_form h4 {font-size: 1em;}
 
-
 form#search_form input[type="search"] {margin: 0 .5em 0 0; padding: 0;  float: left;}
 form#search_form input[type="submit"] { margin: .25em 0 0 0; display: inline-block; }
-
 
 /************************************************************************************
 MOBILE
 *************************************************************************************/
+
 @media screen and (max-width: 800px) {
 
   .sidebar {border-top: 2px solid #0A2240; padding-top: 1em;}
@@ -418,8 +412,6 @@ MOBILE
     margin: 2px 0 4px;
   }
  
- 
-  
   .icon {
     height: 2em;
     width: 1.6em;
@@ -485,8 +477,7 @@ MOBILE
 		 background: #0A2240;
 		border-bottom: 1px solid rgba(255,255,255,.1);
 	}
-	
-	
+		
 	.wrapper #nav ul.page-list li {width: 100%; }
 	
 	#nav a, 
@@ -570,9 +561,7 @@ footer p.source {
   color: #777;
   font-size: .7em;
   text-align: center;
-  
 }
-
 
 .main {background: #fff;}
 
@@ -585,16 +574,13 @@ footer p.source {
   text-align: left;
 }
 
-
 /*** Desktop ***/
 
 @media screen and (min-width: 800px) {
 
-
 header h2.organization {width: 55%;}
 
 /*** Grid ***/
-
 
 /* 
 ========================
@@ -643,13 +629,13 @@ header h2.organization {width: 55%;}
 	text-align: left;
 }
 
-
 .container {
 	clear: both;
 	float: left;
 	margin: 0;
 	width: 100%;	
 }
+
 .one-col, .two-col, .three-col, .four-col, .five-col, .six-col, .seven-col, .eight-col, .nine-col, .ten-col, .eleven-col, .twelve-col, .thirteen-col, .fourteen-col, .fifteen-col, .sixteen-col {
 	clear: none;
 	display: inline;
@@ -661,87 +647,31 @@ header h2.organization {width: 55%;}
 	position: relative;
 }
 
-
 .two-col.navigation {margin: 0; padding: 0; width: 12.66376%;}
 
-
- .one-col {
-	width: 5.02183%;
-}
-.two-col {
-	width: 11.35371%;
-}
-.three-col {
-	width: 17.68558%;
-}
-.four-col {
-	width: 24.01746%;
-}
-.five-col {
-	width: 30.34934%;
-}
-.six-col {
-	width: 36.68122%;
-}
-.seven-col {
-	width: 43.0131%;
-}
-.eight-col {
-	width: 49.34497%;
-}
-.nine-col {
-	width: 55.67685%;
-}
-.ten-col {
-	width: 62.00873%;
-}
-.eleven-col {
-	width: 68.34061%;
-}
-.twelve-col {
-	width: 74.67248%;
-}
-.thirteen-col {
-	width: 81.00436%;
-}
-.fourteen-col {
-	width: 87.33624%;
-}
-.fifteen-col {
-	width: 93.66812%;
-}
-.sixteen-col {
-	width: 100%;
-	margin-right: 0;
-}
- .sixteen-col .one-col {
-	width: 5.02183%;
-	margin-right: 1.31004%;
-}
-.sixteen-col .two-col {
-	width: 11.35371%;
-	margin-right: 1.31004%;
-}
-.sixteen-col .three-col {
-	width: 17.68558%;
-	margin-right: 1.31004%;
-}
-.sixteen-col .four-col {
-	width: 24.01746%;
-	margin-right: 1.31004%;
-}
-.sixteen-col .five-col {
-	width: 30.34934%;
-	margin-right: 1.31004%;
-}
-.sixteen-col .six-col {
-	width: 36.68122%;
-	margin-right: 1.31004%;
-}
-.sixteen-col .seven-col {
-	width: 43.0131%;
-	margin-right: 1.31004%;
-}
+ .one-col {width: 5.02183%;}
+.two-col {width: 11.35371%;}
+.three-col {width: 17.68558%;}
+.four-col {width: 24.01746%;}
+.five-col {width: 30.34934%;}
+.six-col {width: 36.68122%;}
+.seven-col {width: 43.0131%;}
+.eight-col {width: 49.34497%;}
+.nine-col {width: 55.67685%;}
+.ten-col {width: 62.00873%;}
+.eleven-col {width: 68.34061%;}
+.twelve-col {width: 74.67248%;}
+.thirteen-col {width: 81.00436%;}
+.fourteen-col {width: 87.33624%;}
+.fifteen-col {width: 93.66812%;}
+.sixteen-col {width: 100%;margin-right: 0;}
+ .sixteen-col .one-col {width: 5.02183%; margin-right: 1.31004%;}
+.sixteen-col .two-col {width: 11.35371%; margin-right: 1.31004%;}
+.sixteen-col .three-col {width: 17.68558%; margin-right: 1.31004%;}
+.sixteen-col .four-col {width: 24.01746%;margin-right: 1.31004%;}
+.sixteen-col .five-col {width: 30.34934%;	margin-right: 1.31004%;}
+.sixteen-col .six-col {width: 36.68122%; margin-right: 1.31004%;}
+.sixteen-col .seven-col {width: 43.0131%;	margin-right: 1.31004%;}
 .sixteen-col .eight-col {
 	width: 49.34497%;
 	margin-right: 1.31004%;
