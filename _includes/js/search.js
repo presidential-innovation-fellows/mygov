@@ -94,6 +94,8 @@ jQuery(document).ready( function($) {
 	      // disable the search bar until current search is complete
 	      $('#query').blur().attr('disabled', false);
 	    }
+
+	    _gaq.push(['_trackEvent', 'Search', 'Search', query ]);
 	    
 	  } else {
 	  
@@ -105,6 +107,8 @@ jQuery(document).ready( function($) {
 	    $('body').removeClass('search');
 	    $('#content').html(oldhtml);
 	    $('#query').blur().attr('disabled', false).val('');
+	    
+   	    _gaq.push(['_trackEvent', 'Search', 'Back', query ]);
 	    
 	  }
 	  
