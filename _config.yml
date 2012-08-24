@@ -34,6 +34,7 @@ prose:
       author: "Your Name Here"
       layout: post
       comments: true
+      sharing: true
       category: 
       tags: 
       published: false

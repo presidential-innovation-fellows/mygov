@@ -4,6 +4,7 @@ description: Project MyGov, one of the Presidential Innovation Fellows initiativ
 layout: post
 author: Team MyGov
 comments: true
+sharing: true
 category: Announcements
 tags: 
   - launch

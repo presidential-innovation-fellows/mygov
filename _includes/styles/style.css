@@ -297,7 +297,7 @@ div.arrow {
 }
 
 
-article {margin: 0 0 1em 0; padding: 0 0 1em 0;}
+.addthis_toolbox { margin-bottom: 15px; }
 
 .post-meta, .post-taxonomies {
   font-size: .8em; 

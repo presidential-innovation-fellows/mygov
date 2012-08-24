@@ -6,6 +6,10 @@
 	<div class="seven-col">
 
 		{{ content }}
+		
+		{% if page.sharing %}
+	   	 	{% include drop-ins/share.html %}
+	   	{% endif %}
 
 		{% if page.comments %}
 		    {% include drop-ins/comments.html %}
