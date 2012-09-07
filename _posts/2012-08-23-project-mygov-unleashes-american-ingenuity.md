@@ -20,6 +20,8 @@ We’re the Presidential Innovation Fellows working on Project MyGov, and we’r
 
 And that’s where you come in. But first...
 
+<!-- more -->
+
 ### What is Project MyGov?
 
 [Project MyGov](http://www.whitehouse.gov/innovationfellows/mygov) is one of five initiatives of the [new White House Presidential Innovation Fellows program]( http://www.whitehouse.gov/innovationfellows), which pairs top innovators from the private sector, non-profits, and academia with top innovators in government to collaborate on solutions that aim to deliver significant results in six months. Each team of innovators works together in-person in Washington, DC, on focused sprints while being supported by a broader community of interested citizens throughout the country (that’d be you). What makes this initiative unique is its focus on unleashing the ingenuity and know-how of Americans from all sectors.
