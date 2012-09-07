@@ -50,6 +50,8 @@ Now that we have a couple of usability sessions under our belt, we'd like to get
 1.	How can we make the call to action stronger in this experience?
 2.	What questions do you think would users have at this point?
 
+Let us know in the comments below!
+
 *Project MyGov, 1 of 5 initiatives that are part of the new White House Presidential Innovation Fellows program, is reimagining how citizens interact with government through an experience designed around their needs rather than a confusing and fragmented bureaucracy.*
 
 <div class="thumbnail-group" markdown="1" >  
