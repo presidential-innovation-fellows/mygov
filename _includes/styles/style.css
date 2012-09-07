@@ -571,6 +571,10 @@ footer p.source {
 .navfixed {position: fixed; top: 0;}
 .wrapper {text-align: left;}
 
+img.thumb {border: 2px solid #eee; margin: 0 2em 2em 0; opacity: .9;}
+
+img.thumb:hover {opacity: 1; -webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);}
+
 /*** Desktop ***/
 
 @media screen and (min-width: 800px) {
