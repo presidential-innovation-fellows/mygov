@@ -53,9 +53,9 @@ Now that we have a couple of usability sessions under our belt, we'd like to get
 [![Profile][3]{.thumb}][4]
 [![Save and Continue][5]{.thumb}][6]
 
-[1]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-thumb.jpeg
-[2]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick.jpeg
-[3]: http://presidential-innovation-fellows.github.com/mygov/images/content/profile-thumb.png
-[4]: http://presidential-innovation-fellows.github.com/mygov/images/content/profile.png
-[5]: http://presidential-innovation-fellows.github.com/mygov/images/content/save-and-continue-thumb.png
-[6]: http://presidential-innovation-fellows.github.com/mygov/images/content/save-and-continue.png
+[1]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-thumb.jpeg "Participant, Nick, takes a look at the wireframe with Danny"
+[2]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick.jpeg "Participant, Nick, takes a look at the wireframe with Danny"
+[3]: http://presidential-innovation-fellows.github.com/mygov/images/content/profile-thumb.png "Profile"
+[4]: http://presidential-innovation-fellows.github.com/mygov/images/content/profile.png "Profile"
+[5]: http://presidential-innovation-fellows.github.com/mygov/images/content/save-and-continue-thumb.png "Save and Continue"
+[6]: http://presidential-innovation-fellows.github.com/mygov/images/content/save-and-continue.png "Save and Continue"
