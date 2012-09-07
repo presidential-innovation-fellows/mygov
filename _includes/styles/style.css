@@ -571,9 +571,9 @@ footer p.source {
 .navfixed {position: fixed; top: 0;}
 .wrapper {text-align: left;}
 
-#wrapper img.thumb {border: 2px solid #ddd; margin: 0 2em 2em 0; opacity: .9; display: inline-block;}
+#wrapper .thumbnail.group img {border: 2px solid #ddd; margin: 0 2em 2em 0; opacity: .9; display: inline-block;}
 
-#wrapper img.thumb:hover {opacity: 1; -webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);}
+#wrapper .thumbnail.group img {opacity: 1; -webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);}
 
 
 /*** Desktop ***/
