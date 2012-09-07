@@ -8,9 +8,13 @@
 	</div>
 	    
     <div class="entrybody">
-      {% assign teaser = page.content | split: "<!-- more -->" %}
-      {% if moreorless == "less" %}
-    		{{ teaser.first | markdownify }}
+      {% if moreorless == "less" and page.content contains "<!-- more -->" %}
+      		{% comment %}
+      			Not ideal, but GH Pages is still on 2.2.0 which doesn't support split.
+      			Once GH Pages updates to the latest version of Liquid, we can just use:
+      			 `{{ page.content | split: "<!-- more -->" | first }}`
+      		{% endcomment %}
+    		{{ page.content | replace: '<!-- more -->', '<div class="more">' | append: "</div>" }}
     		<p class="readon"><a href="{{ page.url }}">Continue Reading &rarr;</a></p>
       {% else %}
 	      	{{ page.content | markdownify }}
