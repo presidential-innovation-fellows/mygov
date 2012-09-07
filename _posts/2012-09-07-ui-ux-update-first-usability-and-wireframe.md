@@ -19,6 +19,8 @@ published: false
 
 One of the things we're working on with Project MyGov is reducing the burden when filling out government forms. To that end, we created a user flow for what that might look like, and spent the past two days doing some scrappy usability testing out in the wild. 
 
+![Project MyGov Usability 09.05.12](http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-500.jpeg){.alignleft}
+
 * **Task:** Changing your name
 * **Number of participants:** 10
 * **Demographics:** Equal mix of men and women across varying ages and races
