@@ -15,7 +15,7 @@
       			 `{{ page.content | split: "<!-- more -->" | first }}`
       		{% endcomment %}
     		{{ page.content | replace: '<!-- more -->', '<div class="more">' | append: "</div>" }}
-    		<p class="readon"><a href="{{ page.url }}">Continue Reading &rarr;</a></p>
+    		<p class="readon"><a href="{{ site.url }}{{ page.url }}">Continue Reading &rarr;</a></p>
       {% else %}
 	      	{{ page.content | markdownify }}
 	  {% endif %}
