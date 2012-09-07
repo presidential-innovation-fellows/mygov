@@ -573,6 +573,8 @@ footer p.source {
 
 #wrapper .thumbnail.group img {border: 2px solid #ddd; margin: 0 2em 2em 0; opacity: .9; display: inline-block;}
 
+#wrapper .thumbnail.group a {display: inline-block; border: 3px solid #eee;}
+
 #wrapper .thumbnail.group img {opacity: 1; -webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);}
 
 
