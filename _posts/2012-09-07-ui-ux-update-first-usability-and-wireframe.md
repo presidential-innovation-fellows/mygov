@@ -53,6 +53,7 @@ Now that we have a couple of usability sessions under our belt, we'd like to get
 <div class="thumbnail-group" markdown="1" >  
 [![Profile][3]{.thumb}][4]
 [![Save and Continue][5]{.thumb}][6]
+*Click / tap to view full wireframe*
 </div>
 [1]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-thumb.jpeg "Participant, Nick, takes a look at the wireframe with Danny"
 [2]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick.jpeg "Participant, Nick, takes a look at the wireframe with Danny"
