@@ -33,6 +33,8 @@ One of the ideas we're working on with Project MyGov is reducing the burden when
 
 </div>
 
+<!-- more -->
+
 (Cue smiles from participants.)
 
 **Here's how we framed this task to participants:**

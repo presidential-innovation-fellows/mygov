@@ -8,7 +8,13 @@
 	</div>
 	    
     <div class="entrybody">
-      {{ page.content | markdownify }}
+      {% assign teaser = page.content | split: "<!-- more -->" %}
+      {% if moreorless == "less" %}
+    		{{ teaser.first | markdownify }}
+    		<p class="readon"><a href="{{ page.url }}">Continue Reading &rarr;</a></p>
+      {% else %}
+	      	{{ page.content | markdownify }}
+	  {% endif %}
     </div><!-- .entrybody -->
     
     <div class="post-taxonomies">

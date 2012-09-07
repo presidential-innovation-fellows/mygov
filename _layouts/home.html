@@ -4,6 +4,7 @@ layout: default
 
 {{ content }}
 
+{% assign moreorless = "less" %}
 {% for page in paginator.posts %}
   {% include drop-ins/page-single.html %}
 {% endfor %}
