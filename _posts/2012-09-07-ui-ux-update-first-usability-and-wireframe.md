@@ -50,5 +50,12 @@ Now that we have a couple of usability sessions under our belt, we'd like to get
 
 *Project MyGov, 1 of 5 initiatives that are part of the new White House Presidential Innovation Fellows program, is reimagining how citizens interact with government through an experience designed around their needs rather than a confusing and fragmented bureaucracy.*
 
+[![Profile][3]{.thumb}][4]
+[![Save and Continue][5]{.thumb}][6]
+
 [1]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-thumb.jpeg
 [2]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick.jpeg
+[3]: http://presidential-innovation-fellows.github.com/mygov/images/content/profile-thumb.png
+[4]: http://presidential-innovation-fellows.github.com/mygov/images/content/profile.png
+[5]: http://presidential-innovation-fellows.github.com/mygov/images/content/save-and-continue-thumb.png
+[6]: http://presidential-innovation-fellows.github.com/mygov/images/content/save-and-continue.png
