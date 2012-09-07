@@ -54,3 +54,8 @@ disqus_shortname: 'mygov'
 
 #google analytics username
 ga_username: 'UA-34287508-1'
+
+#local build config
+server: true
+auto: true
+pygments: true
