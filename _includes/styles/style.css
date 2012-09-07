@@ -23,7 +23,7 @@ blockquote, q {quotes: "" "";}
 html.ie6 {filter: expression(document.execCommand("BackgroundImageCache", false, true));}
 
 /*** Clearing Floats - Dan Cederholm ***/
-.group:after, #primarycontent:after, .thumbnail-group:after{
+.group:after, #primarycontent:after {
   content: ".";
   display: block;
   height: 0;
