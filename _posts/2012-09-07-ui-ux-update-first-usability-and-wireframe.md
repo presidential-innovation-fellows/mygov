@@ -31,7 +31,7 @@ One of the things we're working on with Project MyGov is reducing the burden whe
 
 **Here's how we framed MyGov:**
 
-![Project MyGov Usability 09.05.12](http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-500.jpeg){.alignright}
+[![Project MyGov Usability 09.05.12][1]{.alignright}][2]
 
 *"Introducing MyGov, your online guide to navigating government.* Gone are the days of having to enter and re-enter your basic information like name and address every time you visit a government website or fill out a form. With MyGov, your information is safe and secure. Creating your account is easy, and only a few clicks away."
 
@@ -45,3 +45,6 @@ Now that we have a couple of usability sessions under our belt, we'd like to get
 2.	What questions do you think would users have at this point?
 
 *Project MyGov, 1 of 5 initiatives that are part of the new White House Presidential Innovation Fellows program, is reimagining how citizens interact with government through an experience designed around their needs rather than a confusing and fragmented bureaucracy.*
+
+[1]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-500.jpeg
+[2]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick.jpeg
