@@ -7,12 +7,12 @@ comments: true
 sharing: true
 category: updates
 tags: 
-	- ui
-    - ux
-	- ui/ux
-    - update
-    - usability
-    - wireframes
+  - ui
+  - ux
+  - ui/ux
+  - update
+  - usability
+  - wireframes
 published: false
 
 ---
