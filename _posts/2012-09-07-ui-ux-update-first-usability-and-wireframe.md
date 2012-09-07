@@ -19,7 +19,7 @@ published: false
 
 [![Project MyGov Usability 09.05.12][1]{.alignright}][2]
 
-One of the things we're working on with Project MyGov is reducing the burden when filling out government forms. To that end, we created a user flow for what that might look like, and spent the past two days doing some scrappy usability testing out in the wild. 
+One of the ideas we're working on with Project MyGov is reducing the burden when filling out government forms. To that end, we created a user flow for what that might look like, and spent the past two days doing some scrappy usability testing out in the wild. 
 
 <div style="margin-left: 20px;" markdown="1">
 
@@ -35,7 +35,7 @@ One of the things we're working on with Project MyGov is reducing the burden whe
 
 (Cue smiles from participants.)
 
-**Here's how we framed MyGov:**
+**Here's how we framed this task to participants:**
 
 *"Introducing MyGov, your online guide to navigating government.* Gone are the days of having to enter and re-enter your basic information like name and address every time you visit a government website or fill out a form. With MyGov, your information is safe and secure. Creating your account is easy, and only a few clicks away."
 
@@ -43,7 +43,7 @@ We showed them a low-res wireframe, asking them to think out loud as they went t
 
 Now that we have a couple of usability sessions under our belt, we'd like to get your input.
 
-**Looking for your help with...**
+**We're looking for your help with...**
 
 1.	How can we make the call to action stronger in this experience?
 2.	What questions do you think would users have at this point?
