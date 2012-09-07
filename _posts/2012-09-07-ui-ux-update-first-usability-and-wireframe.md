@@ -21,7 +21,7 @@ published: false
 
 One of the things we're working on with Project MyGov is reducing the burden when filling out government forms. To that end, we created a user flow for what that might look like, and spent the past two days doing some scrappy usability testing out in the wild. 
 
-<div style="margin-left: 20px;" markdown=1>
+<div style="margin-left: 20px;" markdown="1">
 
 * **Task:** Changing your name
 * **Number of participants:** 10
@@ -50,5 +50,5 @@ Now that we have a couple of usability sessions under our belt, we'd like to get
 
 *Project MyGov, 1 of 5 initiatives that are part of the new White House Presidential Innovation Fellows program, is reimagining how citizens interact with government through an experience designed around their needs rather than a confusing and fragmented bureaucracy.*
 
-[1]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-500.jpeg
+[1]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-thumb.jpeg
 [2]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick.jpeg
