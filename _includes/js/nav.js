@@ -1,7 +1,7 @@
 (function(){
 
   var stickyNav = function(){
-    if ($(window).scrollTop() >= $("#nav").offset().top){
+    if ($(window).scrollTop() >= 196){
       $("nav").addClass("sticky");
     } else {
       $("nav").removeClass("sticky");
