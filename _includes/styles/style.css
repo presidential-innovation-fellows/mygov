@@ -287,7 +287,7 @@ div.arrow {
   border-left: 6px solid transparent;
 }
 
-#wrapper li {text-align: left;}
+#wrapper li, #wrapper, #wrapper p {text-align: left;}
 
 .addthis_toolbox { margin-bottom: 15px; }
 
@@ -385,7 +385,7 @@ form#search_form {
 }
 
 form#search_form h4 {font-size: 1em;}
-form#search_form input[type="search"] {margin: 0 .5em 0 0; padding: 0;  float: left;}
+form#search_form input[type="search"] {margin: 0 .5em 0 0; padding: 0;  display: inline-block;}
 form#search_form input[type="submit"] { margin: .25em 0 0 0; display: inline-block; }
 
 /************************************************************************************
@@ -578,7 +578,7 @@ footer p.source {
 
 #wrapper .thumbnail-group p {font-size: .85em; color: #555; font-style: italic;}
 
-.readon a {font-weight: normal; font-style: normal; color: #8E0609;}
+.readon a {font-weight: normal; font-style: normal; color: #555;}
 
 /*** Desktop ***/
 
@@ -882,4 +882,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f7', end
 .search .no-search-results { margin-bottom: 20px; margin-top: 20px; font-style: italic; }
 
 .more { display: none; }
-.readon { font-style: italic; font-weight: bold; }
+p.readon { font-style: italic; font-weight: bold; display: block; clear: both; }
