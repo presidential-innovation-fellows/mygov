@@ -591,6 +591,8 @@ footer p.source {
 
 #wrapper .thumbnail-group p {font-size: .85em; color: #555; font-style: italic; clear: both; display: block; width: 100%;}
 
+#wrapper .thumbnail-group em {clear: both; display: block; margin-top: .5em;}
+
 .readon a {font-weight: normal; font-style: normal; color: #555;}
 
 /*** Desktop ***/
