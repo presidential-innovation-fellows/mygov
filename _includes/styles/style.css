@@ -560,7 +560,7 @@ footer .inner-footer {
   margin-top: 1em;
 }
 
-footer #wrapper p.source {
+#wrapper footer p.source {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #777;
