@@ -93,7 +93,7 @@ ul li, ol li  {
   list-style-position: outside;
 }
 
-ol li {list-style-type: decimal;}
+ol li {list-style-type: decimal; text-align: left;}
 dl, dd {margin-bottom: .75em; font-size: 1em;}
 
 dt {
@@ -215,11 +215,7 @@ body {
   text-align: center;
 }
 
-header {padding-bottom: 1.75em; 
-  
-  
-  
-}
+header {padding-bottom: 1.75em;}
 
 header h1 a {
   display: block;
@@ -291,6 +287,7 @@ div.arrow {
   border-left: 6px solid transparent;
 }
 
+#wrapper li {text-align: left;}
 
 .addthis_toolbox { margin-bottom: 15px; }
 
@@ -580,6 +577,8 @@ footer p.source {
 #wrapper .thumbnail-group a:hover {opacity: 1; -webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);}
 
 #wrapper .thumbnail-group p {font-size: .85em; color: #555; font-style: italic;}
+
+.readon a {font-weight: normal; font-style: normal; color: #8E0609;}
 
 /*** Desktop ***/
 
