@@ -574,7 +574,16 @@ footer p.source {
 
 #wrapper .thumbnail-group {
   display: block;
-  
+  width: 100%;
+}
+
+#wrapper .thumbnail-group:after {
+  content: ".";
+  display: block;
+  height: 0;
+  overflow: hidden; /* My addition. Not sure it's a good idea, but there you go. */
+  clear:both;
+  visibility: hidden;
 }
 
 #wrapper .thumbnail-group a {display: inline-block; border: 3px solid #ccc; margin: 0 1em 1em 0; float: left; opacity: .9;}
