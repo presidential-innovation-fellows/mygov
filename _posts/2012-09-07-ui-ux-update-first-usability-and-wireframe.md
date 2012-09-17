@@ -1,5 +1,5 @@
 ---
-title: "UX/UI Update #1: First Usability Session and Wireframe for Project MyGov"
+title: "UX/UI Update: First Usability Session and Wireframe for Project MyGov"
 description: "Project MyGov is reducing the burden of filling out government forms and spent the past two days doing some scrappy usability testing out in the wild."
 author: "Kara DeFrias and Danny Chapman"
 layout: post
