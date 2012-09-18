@@ -20,9 +20,8 @@ This week has been a busy one, as the pieces fall into place for our Project MyG
 We've identified a number of ways the current experience can be improved:
 
 * Create a single account, and do away with multiple accounts across various different government websites.
-* Provide people with a consistent user experience across agency websites and expose personalized content relevant to their individual needs.
 * Obliterate the need to fill out forms over and over. Do away with filling out forms by hand or having to print out and mail them in.
-* Build a more consistent experience across agency and government websites.
+* Build a more consistent experience across agency and government websites, and expose personalized content relevant to their individual needs.
 * Consolidate duplicate information that currently resides on different websites.
 * Establish the ability for people to have an ongoing relationship with their government.
 * Build APIs and hosted services that agency web teams can use to quickly integrate with MyGov.
