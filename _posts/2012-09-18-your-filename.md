@@ -29,7 +29,7 @@ We've identified a number of ways the current experience can be improved:
 
 If you think of the above as the "what" we're going after, here's the "how" - a set of tools and services to support these goals:
 
-**1. MyGov profile**
+**1. MyGov account**
 
 * Provides users with a single service that can be used by agencies to sign in to any government website.
 
@@ -41,9 +41,13 @@ If you think of the above as the "what" we're going after, here's the "how" - a 
 
 * Provides agencies with a service to host a form, collect data, and enable people to quickly pre-fill information from their MyGov account.
 
-**4. MyGov discovery tools**
+**4. MyGov discovery bar**
 
-* Provides a consistent browsing experience via a persistent navigation bar that snaps to bottom of site, delivering alerts, notifications, and related content.
+* Provides a consistent browsing experience via a persistent navigation bar that snaps to bottom of site, which includes easy access to MyGov profile and other relevant info.
 * Embeddable widget that provides contextual information for users while browsing any government website.
+
+**5. MyGov alerts and notifications**
+
+* Delivers opt-in alerts, notifications, and related content to people.
 
 More to come in the next few weeks of what this all will look and feel like.
