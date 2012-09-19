@@ -37,7 +37,7 @@ Each post can have the following attributes, as defined in the YAML header. If u
 Use
 ---
 
-To use locally, once jekyll is installed, `cd` into the repo directory and run the command `jekyll --server --auto --safe --pygments --url http://localhost:4000`
+To use locally, once jekyll is installed, `cd` into the repo directory and run the command `jekyll --url http://localhost:4000`
 
 Contributing
 ------------
