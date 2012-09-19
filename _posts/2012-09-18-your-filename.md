@@ -1,5 +1,5 @@
 ---
-title: "Project MyGov: Live from the Bat Cave"
+title: "Live From the Bat Cave: The What and the How"
 description: "Project MyGov identifies a number of ways to improve the current government/citizen interaction experience."
 author: "Team MyGov"
 layout: post
@@ -13,7 +13,7 @@ published: true
 
 Since we [announced the project and introduced ourselves](http://presidential-innovation-fellows.github.com/mygov/2012/08/23/project-mygov-unleashes-american-ingenuity/) in August, we've been hard at work down in the Bat Cave (yes, we named our work space in the sub-basement here in DC). Last week we shared the [results of our first usability test](http://presidential-innovation-fellows.github.com/mygov/2012/09/07/ui-ux-update-first-usability-and-wireframe/) - thanks for all your great feedback! We've made a number of changes to the UI.
 
-This week has been a busy one, as the pieces fall into place for our Project MyGov. We've been working on ways to deliver on reimagining how citizens interact with government – through an experience designed around their needs rather than a confusing and fragmented bureaucracy. Rather than have one large deliverable at the end of our 6 month fellowship, we've broken it down in to 4 components (so far) and will continue to ask for your input on as we go along.
+This week has been a busy one, as the pieces fall into place for our Project MyGov. We've been working on ways to deliver on reimagining how citizens interact with government – through an experience designed around their needs rather than a confusing and fragmented bureaucracy. Rather than have one large deliverable at the end of our 6 month fellowship, we've broken it down into 5 components (so far) and will continue to ask for your input on as we go along.
 
 <!-- more -->
 
