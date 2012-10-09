@@ -43,9 +43,11 @@ We envision agencies using this tool in a variety of ways:
 
 2. Because the tool is built using common standards, third-party developers can begin building apps on top of the form. One example would be a tool to aggregate and complete common fields like name and address across multiple documents.
 
-3. In the very near future, as government entities transition to more web-based forms to collect information, we will move to a more future-proof system of information collection where by data (the information you submit) can remain distinct from its presentation (the form itself). This will allow government agencies to provide citizen services more transparently, more conveniently, and more efficiently.
+3. Citizens will reap the benefits by not having to fill in the same information on multiple forms -- and will enjoy an improved user experience when interacting with government.
 
-4. Citizens will reap the benefits by not having to fill in the same information on multiple forms -- and will enjoy an improved user experience when interacting with government.
+### Just a First Step
+
+PDF Filler is just one small step as part of a larger journey to reimagine people's interactions with government.  In the very near future, as government entities transition to more web-based forms to collect information, we will move to a more future-proof system of information collection where by data (the information you submit) can remain distinct from its presentation (the form itself). This will allow government agencies to provide citizen services more transparently, more conveniently, and more efficiently. In many ways tools like the PDF Filler are simply a stepping stone that can help the government better transition to end to end digital services. Fortunately we are not alone in trying to solve this problem and we see complimentary tools like [SmartPDF](https://github.com/SFgov/smartPDF/) ([video](http://www.youtube.com/watch?v=sTmm0U6-Ekw)) from the City of San Francisco as part of a larger toolbox. 
 
 ### How to help
 
