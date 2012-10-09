@@ -11,4 +11,4 @@ If you’ve ever been to the post office, visited a government website, or appli
 * [Follow us on Twitter](http://bit.ly/mygovtwitter){.twitter}.
 * [Join the conversation on Facebook](http://bit.ly/mygovfacebook){.facebook}.
 * [Visit us on IdeaScale to add your idea, give feedback on others and vote](http://bit.ly/mygovideascale){.IdeaScale}.
-* [Fork and contribute on GitHub](https://github.com/GSA-OCSIT){.GitHub}. 
+* [Fork and contribute to our code](http://presidential-innovation-fellows.github.com/mygov/developer/){.developer}. 
