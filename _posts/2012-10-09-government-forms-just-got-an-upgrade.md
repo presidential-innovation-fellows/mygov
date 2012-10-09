@@ -6,7 +6,7 @@ layout: post
 comments: true
 sharing: true
 category: announcements
-tags: code, pdf, forms
+tags: code pdf forms
 published: true
 
 ---
