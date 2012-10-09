@@ -1,5 +1,5 @@
 ---
 layout: page
 permalink: /developers/
-tite: Developers
+title: Developers
 ---
