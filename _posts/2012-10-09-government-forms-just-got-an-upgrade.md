@@ -13,7 +13,8 @@ published: true
 
 <div class="alignright" markdown="1" style="text-align:right;">
 
-![Government Form](http://presidential-innovation-fellows.github.com/mygov/images/content/passport.jpg)
+![Government Form](http://presidential-innovation-fellows.github.com/mygov/images/content/passport.jpg){.alignright}
+
 [Photo Credit](http://www.flickr.com/photos/blmurch/4262786267/){.alignright}
 
 </div>
