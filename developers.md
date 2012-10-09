@@ -14,7 +14,7 @@ Project MyGov is a series of open source projects and is supported by the effort
 ## Ways to Contribute
 As our code becomes public there are a number of ways for people to contribute. Below are just some of the general ways to participate, but we will be updating these with links and more specific pointers in the near future. 
 
-* **Everyone** - Help expand documentation and answer questions to make it easier for other users to get started and join relevant discussions to help shape the project's future.
+* **Everyone** - Help expand documentation and answer questions to make it easier for other users to get started and [join relevant discussions](http://presidential-innovation-fellows.github.com/mygov/contact) to help shape the project's future.
 * **Users** - Download and test the latest development version of the project and submit bug reports or feature requests.
 * **Internationalization** - Contribute translations in other languages
 * **Technical Folks** - Fork the development versions and submit a pull request, especially for any known issues. 
