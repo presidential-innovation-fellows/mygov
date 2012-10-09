@@ -11,7 +11,7 @@ published: true
 
 ---
 
-<div class="alignright" style="text-align:right;">
+<div class="alignright" style="text-align:right; font-size: 12px;">
 
 <img src="http://presidential-innovation-fellows.github.com/mygov/images/content/passport.jpg" alt="Government Form"><br />
 
