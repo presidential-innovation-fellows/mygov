@@ -1,5 +1,5 @@
 ---
-title: "Government Forms just got an Upgrade"
+title: "Government Forms Just Got an Upgrade"
 description: "Today Project MyGov is pleased to announce the release of a small, open source tool to improve the experience of completing government (or other) PDF-based forms"
 author: "Benjamin Balter and Greg Gershman"
 layout: post
