@@ -535,12 +535,13 @@ header ul.page-list li {
   border-right: 1px solid rgba(0,0,0,.1);
   border-left: 1px solid rgba(255,255,255,.1);
   margin: 0;
+  text-align: right;
   padding: 0;
 }
 
 
 ul.page-list li:first-child {border-left: none;}
-ul.page-list li a {display: block; padding: .3em 0; margin: 0;}
+ul.page-list li a {display: block; padding: .3em 0; margin: 0; text-decoration: none;}
 ul.page-list li a:hover {background: rgba(255,255,255,.5);}
 
 footer {
