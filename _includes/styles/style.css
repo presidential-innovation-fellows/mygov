@@ -262,10 +262,10 @@ header h2.organization {
 }
 
 /*** Core Link Styles ***/
-a {color: #17375E; text-decoration: none;}
+a {color: #0A2140; text-decoration: underline;}
 a:active {color: #457DB3;}
-a:hover {color: #457DB3; text-decoration: underline;}
-a:visited {color: #17375E;}
+a:hover {color: #555; background: #eee;}
+a:visited {color: #555;}
 
 .contentarea {margin: 0 4%;}
 
@@ -275,7 +275,7 @@ ul.page-list {
   text-align: right;
 }
 
-/*** Arrow! - Hat tip Adam Darowski, tech.patientslikeme.com/2010/11/09/using-borders-to-make-pure-css-arrows/ ***/
+/*** Arrow! - Hat tip Adam Darowski, http://tech.patientslikeme.com/2010/11/09/using-borders-to-make-pure-css-arrows/ ***/
 
 div.arrow {
   position: absolute;
