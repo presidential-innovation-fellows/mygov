@@ -19,7 +19,7 @@ Photo Credit: <a href="http://www.flickr.com/photos/blmurch/4262786267/">blmurch
 
 </div>
 
-If you've ever had the pleasure of filling out a TPS report or any other form (in triplicate, by hand, with a pen), have we got news for you. We're happy to roll out a [a small, open source tool](https://github.com/GSA-OCSIT/pdf-filler) to improve the experience of completing government (or other) PDF-based forms. We've creatively named it "[PDF Filler](https://github.com/GSA-OCSIT/pdf-filler)" (seriously, hit us up in the comments with better names) and it gives web developers a standardized ([RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer) in geek speak) interface that, when provided with a user's responses and the URL to a public-facing PDF, returns the filled out PDF form. No ink smears or smudges to be found.
+If you've ever had the pleasure of filling out a TPS report or any other form (in triplicate, by hand, with a pen), have we got news for you. We've rolled out - and look forward to getting your feedback on - [a small, open source tool](https://github.com/GSA-OCSIT/pdf-filler) to improve the experience of completing government (or other) PDF-based forms. We've creatively named it "[PDF Filler](https://github.com/GSA-OCSIT/pdf-filler)" (seriously, hit us up in the comments with better names) and it gives web developers a standardized ([RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer) in geek speak) interface that, when provided with a user's responses and the URL to a public-facing PDF, returns the filled out PDF form. No ink smears or smudges to be found.
 
 <!-- more -->
 
