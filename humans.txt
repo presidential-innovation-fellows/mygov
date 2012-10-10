@@ -16,9 +16,9 @@ layout: none
 	Twitter: @dannychapman
 	From: Riverside, RI
 	
-	Kara Defrais
+	Kara DeFrias
 	Twitter: @CaliforniaKara
-	From: Sandiego, CA
+	From: San Diego, CA
 	
 	Greg Gershman
 	Twitter: @greggresh
