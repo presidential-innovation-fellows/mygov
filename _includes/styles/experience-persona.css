@@ -1,0 +1,6 @@
+.post-experience-persona #content h3, .post-experience-persona h4 { color: blue }
+.post-experience-persona #content h4 { padding-bottom: 10px;  border-bottom: 1px solid #000; text-transform: uppercase; }
+.post-experience-persona .traits { text-transform: uppercase; color: blue; }
+.post-experience-persona .traits li em { text-transform: none; color: black; }
+.post-experience-persona .copy_examples li { list-style: none; border-bottom: 1px solid #000; padding: 10px; margin: 0; padding-left: 0; }
+.post-experience-persona .copy_examples li strong { display: block; clear: both; }

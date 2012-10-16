@@ -1,4 +1,4 @@
 ---
 layout: none
 ---
-{% capture css %}{% include styles/style.css %}{% include styles/jquery.fancybox.css %}{% endcapture %}{{ css | strip_newlines }}
+{% capture css %}{% include styles/style.css %}{% include styles/jquery.fancybox.css %}{% include styles/experience-persona.css %}{% endcapture %}{{ css | strip_newlines }}
