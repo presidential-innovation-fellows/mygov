@@ -11,6 +11,15 @@ published: false
 
 ---
 
+
+<div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
+
+<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Robot"></a><br />
+
+Humans aren't robots. Why do we talk to them like they are? Photo: [JohnGreenaway](http://www.flickr.com/photos/johngreenaway/3356358479)
+
+</div>
+
 Humans create websites for other humans to read. So when did we start talking to people like they're robots? Raise your hand if you've ever seen this message on your computer screen:
 
 "FATAL ERROR: Wrong address."
@@ -27,11 +36,27 @@ UX generally refers to how a person feels when they interact with a website or a
 
 One way to address this issue before a person even sees this type of error is to have an Experience Persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create unexpected delight. Everything, from the back end code to the word choice to the button color.
 
+<div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
+
+<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Tower of Terror Loby"></a><br />
+
+Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Javier](http://www.flickr.com/photos/lorenjavier/6661295397)
+
+</div>
+
 Consider Disney, who does a great job of creating experiences. Even when you're waiting in line (or queue, as our friends across the pond would say) for a ride, the attention to detail shines through. Take the Hollywood Tower of Terror, for example. From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind, or mental model, for what you're about to experience.
 
 Taking that holistic view is how we approached MyGov.
 
 ### The research behind the MyGov experience persona
+
+<div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
+
+<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Library of Congress"></a><br />
+
+Caption: Beautiful day for research at Library of Congress. Photo: [source](https://twitter.com/californiakara)
+
+</div>
 
 Early on in Project MyGov we conducted research at the Library of Congress and National Archives to study how the government historically communicated with people, and how people talked to the government. This was done, in part to inform the MyGov UX. (It also informed the design and UI, and Danny Chapman will cover that in another post.)
 
@@ -44,6 +69,14 @@ Bruce Bustard over at National Archives gave us a fantastic, in-depth tour of th
 There was a bit of an a-ha moment when looking at these posters: back then, they had to get across a great deal of information in a small space. Generally less than 36 inches by 24 inches, with a large graphic and few words. It's kind of a nice tie into today's social communications, specifically Twitter, where you also have a small space (140 characters) to tell get your point across.
 
 ### MyGov experience persona highlights
+
+<div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
+
+<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias-thumb.jpg" alt="Tan Docs"></a><br />
+
+An original Democratic Party ticket and Colony of New Hampshire broadsheet. Photo: [source](https://twitter.com/californiakara)
+
+</div>
 
 There are six parts to an experience persona: Overview, Brand Traits, Personality Map, Voice, Visual Lexicon, and Engagement Methods. A few bits highlights called out below. (Hat tip to Aarron Waters for his [design persona template](http://aarronwalter.com/design-personas/) - it rocks!)
 
