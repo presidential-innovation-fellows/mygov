@@ -21,21 +21,25 @@ Changing the copy, and maybe even the way it's displayed, is such an easy fix, a
 
 "We can't seem to find that address. Please try entering it again."
 
-UX generally refers to how a person feels when they interact with a website. Taking a more holistic view
+UX generally refers to how a person feels when they interact with a website or a computer program. Taking a more holistic view, it can also refer to when you're enjoying your Starbucks or riding the bus to work. Each of these things is an experience, a
 
 <!-- more -->
 
 One way to address this issue before a person even sees this type of error is to have an Experience Persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create unexpected delight. Because everything, from the back end code to the word choice to the button color, is an opportunity to delight people.
 
-Disney does a great job at this. Even when you're waiting in line (or queue, as our friends across the pond would say) for a ride, the attention to detail shines through. With the Indiana Jones ride, you spend time walking through caves that mirror the movie experience, with radios and skulls peppered throughout. It makes the time spent waiting in line somewhat interactive, putting you into the frame of mind.
-
-### What informed the experience persona doc
-
-Early on in Project MyGov we did research at the Library of Congress and National Archives to study how the government historically communicated with people, and how people talked to the government. This was done, in part to inform the MyGov UX. (It also informed the design and UI, and Danny Chapman will cover that in another post.)
-
-We're grateful to Eric Frazier from Library of Congress, who took the time to carefully curate our session in the Rare Books Reading Room. Artifacts such as an original Democratic Party Ticket to a document from the Colony of New Hampshire helped us understand how people communicated back then. We also looked at the old WPA posters, created under Frankline Delano Roosevelt's New Deal, were produced between 1936 to 1943.
+Disney does a great job of creating experiences. Even when you're waiting in line (or queue, as our friends across the pond would say) for a ride, the attention to detail shines through. Take the Hollywood Tower of Terror, for example. From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind, or mental model, for what you're about to experience.
 
 ### How does this tie to MyGov?
+
+### The research behind the experience persona
+
+Early on in Project MyGov we conducted research at the Library of Congress and National Archives to study how the government historically communicated with people, and how people talked to the government. This was done, in part to inform the MyGov UX. (It also informed the design and UI, and Danny Chapman will cover that in another post.)
+
+We're grateful to Eric Frazier from Library of Congress, who took the time to carefully curate our session in the Rare Books Reading Room. Artifacts such as an original Democratic Party Ticket and a document from the Colony of New Hampshire helped us understand how people communicated back then. We also looked at the old WPA posters, created under Frankline Delano Roosevelt's New Deal and produced between 1936 to 1943.
+
+Bruce Bustard over at National Archives gave us a fantastic, in-depth tour of the Declaration of Independence, Constitution, and Bill of Rights. Yes, we made the obligatory *National Treasure* reference when we checked in on Foursquare: "We're stealing the Declaration of Independence!"
+
+(And no, we didn't do that.)
 
 There was a bit of an a-ha moment when looking at these posters: back then, they had to get across a great deal of information in a small space. It's kind of a nice tie into today's social communications, specifically Twitter, where you also have a small space (140 characters) to tell get your point across.
 
@@ -63,4 +67,4 @@ We also consciously say person instead of citizen whenever we can, because we re
 
 ### Final thoughts
 
-If it were a blanket, MyGov would be that warm, comfortable one you grab on a cold winter’s night that hugs you and takes the chill out of the room.
+If it were a blanket, MyGov would be that warm, comfortable one you grab on a cold winter’s night that hugs you and takes the chill out of the room. Metaphorically, of course. In reality, we're hoping MyGov helps you navigate your way around government - a sherpa, of sorts - and helps you do what you came to do in a pleasant way.
