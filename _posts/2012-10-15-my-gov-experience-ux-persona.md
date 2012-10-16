@@ -39,7 +39,7 @@ UX generally refers to how a person feels when they interact with a website or a
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
 
-<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Tower of Terror Loby"></a><br />
+<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier-thumb.jpg" alt="Tower of Terror Loby"></a><br />
 
 Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Javier](http://www.flickr.com/photos/lorenjavier/6661295397)
 
@@ -53,7 +53,7 @@ Taking that holistic view is how we approached MyGov.
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
 
-<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Library of Congress"></a><br />
+<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias-thumb.jpg" alt="Library of Congress"></a><br />
 
 Caption: Beautiful day for research at Library of Congress. Photo: [source](https://twitter.com/californiakara)
 
