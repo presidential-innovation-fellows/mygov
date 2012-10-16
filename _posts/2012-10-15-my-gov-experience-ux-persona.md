@@ -26,15 +26,15 @@ Humans create websites for other humans to read. So when did we start talking to
 
 Or some other equally horrific text. Instills confidence, right?
 
-Changing the copy, and maybe even the way it's displayed, is such an easy fix, and becomes an opportunity to create a more pleasant user experience (UX). Because really, it's never the users fault. Even if it is, it shouldn't be communicated that way. Soften it up, reposition it, and present it as:
+Changing the copy, and even the way it's displayed, is such an easy fix, and becomes an opportunity to create a more pleasant user experience (UX). Because honestly, it's never the users fault. Even if it is, it shouldn't be communicated that way. Soften it up, reposition it, and present it as:
 
 "We can't seem to find that address. Please try entering it again."
 
-UX generally refers to how a person feels when they interact with a website or a computer program. Thinking more holistically, it can also refer to when you're enjoying your Starbucks or riding the bus to work. Each of these things is an experience, an opportunity to delight people.
+One way to address this issue before someone even sees this error is to have an Experience Persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create unexpected delight. Everything, from the back end code to the word choice to the button color.
 
 <!-- more -->
 
-One way to address this issue before a person even sees this type of error is to have an Experience Persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create unexpected delight. Everything, from the back end code to the word choice to the button color.
+UX generally refers to how a person feels when they interact with a website or a computer program. Thinking more holistically, it can also refer to when you're enjoying your Starbucks or riding the bus to work. Each of these things is an experience, an opportunity to delight people.
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
 
@@ -44,7 +44,7 @@ Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Ja
 
 </div>
 
-Consider Disney, who does a great job of creating experiences. Even when you're waiting in line (or queue, as our friends across the pond would say) for a ride, the attention to detail shines through. Take the Hollywood Tower of Terror, for example. From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind, or mental model, for what you're about to experience.
+Consider Disney, who does a great job of creating experiences. Even when you're doing something mundane like waiting in line (or queue, as our friends across the pond would say), the attention to detail shines through. Take the Hollywood Tower of Terror, for example. From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind, or mental model, for what you're about to experience.
 
 Taking that holistic view is how we approached MyGov.
 
@@ -101,3 +101,5 @@ We also consciously say person instead of citizen whenever we can, because we re
 ### Final thoughts
 
 If it were a blanket, MyGov would be that warm, comfortable one you grab on a cold winter’s night that hugs you and takes the chill out of the room. Metaphorically, of course. In reality, we're hoping MyGov helps you navigate your way around government - a sherpa, of sorts - and helps you do what you came to do in a pleasant way.
+
+The full MyGov Experience Persona.
