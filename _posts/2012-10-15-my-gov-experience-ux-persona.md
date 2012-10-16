@@ -68,3 +68,5 @@ We also consciously say person instead of citizen whenever we can, because we re
 ### Final thoughts
 
 If it were a blanket, MyGov would be that warm, comfortable one you grab on a cold winter’s night that hugs you and takes the chill out of the room. Metaphorically, of course. In reality, we're hoping MyGov helps you navigate your way around government - a sherpa, of sorts - and helps you do what you came to do in a pleasant way.
+
+The full MyGov Experience Persona.
