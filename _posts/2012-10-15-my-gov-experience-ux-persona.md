@@ -29,7 +29,9 @@ How does this tie to MyGov? There was a bit of an a-ha moment when looking at th
 
 We consciously say person instead of citizen whenever we can, because we realize that not everyone who interacts with the government is a citizen. We also try not to use the word users...but freely admit that old habits die hard.
 
-(hat tip to Aarron Waters
+### 
+
+(Hat tip to Aarron Waters for his [design persona template](http://aarronwalter.com/design-personas/) - it rocks!)
 
 Disney does a great job at this. Even when you're waiting in line (or queue, as our friends across the pond would say) for a ride, the attention to detail shines through. With the Indiana Jones ride, you spend time walking through caves that mirror the movie experience, with radios and skulls peppered throughout. It makes the time spent waiting in line somewhat interactive, putting you into the frame of mind.
 
