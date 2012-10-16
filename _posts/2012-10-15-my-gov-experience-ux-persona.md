@@ -33,7 +33,7 @@ Said this way, the onus is on us, the creators, and doesn't make the person usin
 
 <!-- more -->
 
-One way to address this issue before someone even sees this error is to have an experience persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create unexpected delight. Everything, from the back end code to the word choice to the button color.
+One way to address this issue before someone even sees this error is to have an experience persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create unexpected delight.
 
 UX generally refers to how a person feels when they interact with a website or a computer program. Thinking more holistically, it can also refer to when you're enjoying your Starbucks or riding the bus to work. Each of these things is an experience, an opportunity to delight people.
 
