@@ -11,7 +11,6 @@ published: false
 
 ---
 
-
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
 
 <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Robot"></a><br />
@@ -26,19 +25,21 @@ Humans create websites for other humans to read. So when did we start talking to
 
 Or some other equally horrific text. Instills confidence, right?
 
-Changing the copy, and even the way it's displayed, is such an easy fix, and becomes an opportunity to create a more pleasant user experience (UX). Because honestly, it's never the users fault. Even if it is, it shouldn't be communicated that way. Soften it up, reposition it, and present it as:
+Changing the copy, and even the way it's displayed, is such an easy fix, and becomes an opportunity to create a more pleasant user experience (UX). We really shouldn't ever blame the user. Soften it up, reposition it, and present it as:
 
 "We can't seem to find that address. Please try entering it again."
 
-One way to address this issue before someone even sees this error is to have an Experience Persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create unexpected delight. Everything, from the back end code to the word choice to the button color.
+Said this way, the onus is on us, the creators, and doesn't make the person using our stuff feel bad, or stupid.
 
 <!-- more -->
+
+One way to address this issue before someone even sees this error is to have an experience persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create unexpected delight. Everything, from the back end code to the word choice to the button color.
 
 UX generally refers to how a person feels when they interact with a website or a computer program. Thinking more holistically, it can also refer to when you're enjoying your Starbucks or riding the bus to work. Each of these things is an experience, an opportunity to delight people.
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
 
-<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier-thumb.jpg" alt="Tower of Terror Loby"></a><br />
+<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Tower of Terror Loby"></a><br />
 
 Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Javier](http://www.flickr.com/photos/lorenjavier/6661295397)
 
@@ -52,7 +53,7 @@ Taking that holistic view is how we approached MyGov.
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
 
-<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias-thumb.jpg" alt="Library of Congress"></a><br />
+<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Library of Congress"></a><br />
 
 Caption: Beautiful day for research at Library of Congress. Photo: [source](https://twitter.com/californiakara)
 
