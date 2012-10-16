@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Add an Image</title>
+    <link rel="stylesheet" href="http://presidential-innovation-fellows.github.com/mygov/styles/style.css">
+    <style>
+        #output {width: 400px; height: 300px; margin-right: 50px; }
+        #left { float: left; }
+        #right { float: right; }
+        #left, #right { width: 50%; }
+        input { width: 300px; }
+        label { font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<div id="wrapper" class="wrapper">
+<div class="twelve-col main">
+<div class="contentarea">
+
+
+    <h1>Add an Image</h1>
+    
+    <div id="left">
+    <h2>Options</h2>
+	<form>
+	   <label>Caption:<br /><input type="text" name="Caption" id="caption" placeholder="(optional)"></label><br />
+	   <label>Photo Credit:<br /><input type="text" name="credit" id="credit" placeholder="(optional)"></label><br />
+	   <label>Photo Credit Link:<br /><input type="text" name="link" id="credit_link" value="http://" placeholder="(optional)"></label>   
+	</form>
+	
+	<h2>Images</h2>
+    <ul id="images"></ul>
+    </div>
+    
+    <div id="right">
+    <h2>Output</h2>
+	<textarea id="output"></textarea>
+    </div>
+    
+</div>
+</div>
+</div>    
+    
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.1/underscore-min.js"></script>
+<script src="gh3.js"></script>
+<script src="images.js"></script>
+
+<script type="text/template" id="image_template">
+    <li class="image"><a href="#"><%= name %></a></li>
+</script>
+
+<script type="text/template" id="embed_code">
+
+<div class="image alignright" markdown="1">
+
+![<%= alt %>](http://presidential-innovation-fellows.github.com/mygov/images/content/<%= name %>)
+ 
+<div class="caption" markdown="1">
+*Photo Credit: [<%= credit %>](<%= credit_link %>)*{.credit}
+
+<%= caption %>
+
+</div>
+    
+</div>
+
+</script>
+
+</body>
+
+</html>
