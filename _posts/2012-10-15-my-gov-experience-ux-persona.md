@@ -45,7 +45,7 @@ Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Ja
 
 </div>
 
-Disney does a great job of creating memorable, immersive experiences. Even when you're doing something mundane like waiting in line (or queue, as our friends across the pond would say), the attention to detail shines through. Take the Hollywood Tower of Terror, for example, a free fall attraction based on the TV show *The Twilight Zone*.  From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind, or mental model, for what you're about to experience.
+Disney does a great job of creating memorable, immersive experiences. Even when you're doing something mundane like waiting in line (or queue, as our friends across the pond would say), the attention to detail shines through. Take the Hollywood Tower of Terror, for example, a free fall attraction based on the TV show *The Twilight Zone*. Upon walking up to the ride, you're instantly transported from sunny Southern California to a creepy place where something's clearly gone wrong.  From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind, or mental model, for what you're about to experience.
 
 Taking that holistic view is how we approached MyGov.
 
