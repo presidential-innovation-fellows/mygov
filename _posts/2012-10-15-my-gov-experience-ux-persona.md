@@ -45,7 +45,7 @@ Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Ja
 
 </div>
 
-Disney does a great job of creating memorable, immersive experiences. Even when you're doing something mundane like waiting in line (or queue, as our friends across the pond would say), the attention to detail shines through. Take the Hollywood Tower of Terror, for example, a free fall attraction based on the TV show *The Twilight Zone*. Upon walking up to the ride, you're instantly transported from sunny Southern California to a creepy place where something's clearly gone wrong.  From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind, or mental model, for what you're about to experience.
+Disney does a great job of creating memorable, immersive experiences. Even when you're doing something mundane like waiting in line (or queue, as our friends across the pond would say), the attention to detail shines through. Take the Hollywood Tower of Terror, for example, a free fall attraction based on the TV show *The Twilight Zone*. Upon walking up to the ride, you're instantly transported from sunny Southern California to a creepy place where something's clearly gone wrong.  From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind for what you're about to experience.
 
 Taking that holistic view is how we approached MyGov.
 
@@ -61,11 +61,9 @@ Caption: Beautiful day for research at Library of Congress. Photo: [source](http
 
 Early on in Project MyGov we conducted research at the Library of Congress and National Archives to study how the government historically communicated with people, and how people talked to the government. This was done, in part to inform the MyGov UX. (It also informed the design and UI, and Danny Chapman will cover that in another post.)
 
-We're grateful to Eric Frazier from Library of Congress, who took the time to carefully curate our session in the Rare Books Reading Room. Artifacts such as an original Democratic Party Ticket and a document from the Colony of New Hampshire helped us understand how people communicated back then. We also studied the old WPA posters, created under Frankline Delano Roosevelt's New Deal and produced between 1936 to 1943.
+We're grateful to Eric Frazier from Library of Congress, who took the time to carefully curate our session in the Rare Books and Special Collections Reading Room. Artifacts such as an original Democratic Party ticket and a document from the Colony of New Hampshire helped us understand how people communicated back then. We also studied the old WPA posters, created under Franklin Delano Roosevelt's New Deal and produced between 1936 to 1943.
 
-Bruce Bustard over at National Archives gave us a fantastic, in-depth tour of the Declaration of Independence, Constitution, and Bill of Rights. Yes, we made the obligatory *National Treasure* reference when we checked in on Foursquare: "We're stealing the Declaration of Independence!"
-
-(And no, we didn't do that.)
+Bruce Bustard over at National Archives gave us a fantastic, in-depth tour of the Declaration of Independence, Constitution, and Bill of Rights. Yes, we made the obligatory *National Treasure* reference when we checked in on Foursquare. (And no, we didn't do it.)
 
 There was a bit of an a-ha moment when looking at these posters: back then, they had to get across a great deal of information in a small space. Generally less than 36 inches by 24 inches, with a large graphic and few words. It's kind of a nice tie into today's social communications, specifically Twitter, where you also have a small space (140 characters) to tell get your point across.
 
@@ -79,7 +77,7 @@ An original Democratic Party ticket and Colony of New Hampshire broadsheet. Phot
 
 </div>
 
-There are six parts to an experience persona: Overview, Brand Traits, Personality Map, Voice, Visual Lexicon, and Engagement Methods. A few bits highlights called out below. (Hat tip to Aarron Waters for his [design persona template](http://aarronwalter.com/design-personas/) - it rocks!)
+There are six parts to an experience persona: Overview, Brand Traits, Personality Map, Voice, Visual Lexicon, and Engagement Methods. A few bits highlights called out below. (Hat tip to Aarron Walter for his [design persona template](http://aarronwalter.com/design-personas/) - it rocks!)
 
 **Overview**
 
@@ -101,6 +99,6 @@ We also consciously say person instead of citizen whenever we can, because we re
 
 ### Final thoughts
 
-If it were a blanket, MyGov would be that warm, comfortable one you grab on a cold winter’s night that hugs you and takes the chill out of the room. Metaphorically, of course. In reality, we're hoping MyGov helps you navigate your way around government - a sherpa, of sorts - and helps you do what you came to do in a pleasant way.
+We're hoping MyGov helps you navigate your way around government - a sherpa, of sorts - and helps you do what you came to do. But in a friendly, Ellie-like way, and not like a robot.
 
 The full MyGov Experience Persona.
