@@ -2,7 +2,7 @@
 title: Experience Persona
 description: "SEO friendly description"
 permalink: "experience-persona/"
-layout: page
+layout: no-sidebar
 comments: false
 published: true
 id: -experience-persona

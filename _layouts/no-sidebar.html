@@ -1,9 +1,21 @@
 {% include header.html %}
 {% include nav.html %}
+{% include masthead.html %}
 
-{{ content }}
-{% if page.comments %}
-	{% include drop-ins/comments.html %}
-{% endif %}
+<div class="twelve-col last-col" id="content">
 
+		{{ content }}
+		
+		{% if page.sharing %}
+	   	 	{% include drop-ins/share.html %}
+	   	{% endif %}
+
+		{% if page.comments %}
+		    {% include drop-ins/comments.html %}
+		{% endif %}
+
+</div><!--/eight-col content main -->
+
+{% include tail.html %}
+{% include proscenium.html %}
 {% include footer.html %}

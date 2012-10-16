@@ -865,6 +865,8 @@ nav.sticky #nav li span {padding-right: 10px;} */
 
 #content .alignleft {float:left; padding :.3em; margin: 0 1em .5em 0; background: #fff; border: 1px solid #ddd; }
 #content .alignright {float:right; padding-left: 10px; }
+#content .aligncenter { margin-left: auto; margin-right: auto; clear: both; text-align: center; }
+
 .arrow { display:none;}
 .active .arrow { display:block;}
 em { font-style: italic;}
