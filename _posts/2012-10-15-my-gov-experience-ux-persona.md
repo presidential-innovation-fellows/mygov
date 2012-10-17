@@ -7,7 +7,7 @@ comments: true
 sharing: true
 category: 
 tags: 
-published: false
+published: true
 
 ---
 
@@ -35,7 +35,7 @@ Getting back to our example above, we should avoid blaming the user whenever pos
 
 Said this way, the onus is on us, the creators, and doesn't make the person using our stuff feel bad, or stupid.
 
-One way to address this issue before someone even sees this error is to have an experience persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create a well-crafted interaction.
+One way to address this issue before someone even sees this error is to have an experience persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create a well-crafted interaction. It empowers everyone on the team to delight users of your product, service, or website.
 
 Each of these things is an experience, an opportunity to delight people.
 
@@ -61,7 +61,7 @@ Caption: Beautiful day for research at Library of Congress. Photo: [source](http
 
 </div>
 
-Early on in Project MyGov we conducted research at the Library of Congress and National Archives to study how the government historically communicated with people, and how people talked to the government. This was done, in part to inform the MyGov UX. (It also informed the design and UI, and Danny Chapman will cover that in another post.)
+Project MyGov's goal is to reimagine the relationship between the government and the people, taking what is currently an agency-focused model and making it more centered around people's needs. We decided early on it was critical to the MyGov US to study how the government historically communicated with people, and how people talked to the government. To that end, we conducted research at the Library of Congress and National Archives. (It also informed the design and UI, and Danny Chapman will cover that in another post.)
 
 We're grateful to Eric Frazier from Library of Congress, who took the time to carefully curate our session in the Rare Books and Special Collections Reading Room. Artifacts such as an original Democratic Party ticket and a document from the Colony of New Hampshire helped us understand how people communicated back then. We also studied the old WPA posters, created under Franklin Delano Roosevelt's New Deal and produced between 1936 to 1943.
 
@@ -103,4 +103,4 @@ We also consciously say person instead of citizen whenever we can, because we re
 
 We're hoping MyGov helps you navigate your way around government - a sherpa, of sorts - and helps you do what you came to do. But in a friendly, Ellie-like way, and not like a robot.
 
-The full MyGov Experience Persona.
+View the full [MyGov Experience Persona](http://presidential-innovation-fellows.github.com/mygov/experience-persona/).
