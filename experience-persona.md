@@ -8,114 +8,104 @@ published: true
 id: -experience-persona
 ---
 
+<div markdown="0">
 
-<div class="four-col" markdown="1">
-
-![Ellie](http://presidential-innovation-fellows.github.com/mygov/images/content/eleanor.png){.image}
-
+<div class="four-col">
+<img src="http://presidential-innovation-fellows.github.com/mygov/images/content/eleanor.png" alt="persona image" />
 </div>
 
-<div class="eight-col last-col" markdown="1">
+<div class="eight-col last-col">
 
-### Overview{:.first}
+<h3>Overview</h3>
 
-Eleanor Franklin is the face of MyGov, and the embodiment of the experience personality. Eleanor’s calm demeanor communicates trust, and her approachable nature lets people know this experience is centered around their needs.
+<p>Eleanor Franklin is the face of MyGov, and the embodiment of the experience personality. Eleanor&rsquo;s calm demeanor communicates trust, and her approachable nature lets people know this experience is centered around their needs.</p>
 
-Ellie, as she’s known, always welcomes people with an easy to understand, conversational tone that calms folks during what can be times of intense of change. The classic style lets people know that MyGov offers timeless experience that isn’t subject to the whims and tides of whatever’s “in” at the moment. Ellie likes to give people information that may be useful to them, and she enjoys helping them get stuff done.
+<p>Ellie, as she&rsquo;s known, always welcomes people with an easy to understand, conversational tone that calms folks during what can be times of intense of change. The classic style lets people know that MyGov offers timeless experience that isn&rsquo;t subject to the whims and tides of whatever&rsquo;s &ldquo;in&rdquo; at the moment. Ellie likes to give people information that may be useful to them, and she enjoys helping them get stuff done.</p>
 
-MyGov often delights people by offering a contextually relevant, and personalized, experience for them. It’s not the main focus though, so when they need to get down to business there’s nothing in the way of what they came to do.
+<p>MyGov often delights people by offering a contextually relevant, and personalized, experience for them. It&rsquo;s not the main focus though, so when they need to get down to business there&rsquo;s nothing in the way of what they came to do.</p>
 
-### Brand Traits
+<h3>Brand Traits</h3>
 
-{: .danny}
-* Trustworthy
-* Friendly
-* Personable *but not creepy*
-* Approachable *but not chummy*
-* Fresh *but not trendy
-* Bold *but not brazen*
-* Grounded *but not stodgy*
-* Compassionate *but not condescending*
+<ul>
+<li>Trustworthy
+<li>Friendly
+<li>Personable <em>but not creepy</em>
+<li>Approachable <em>but not chummy</em>
+<li>Fresh <em>but not trendy</em>
+<li>Bold <em>ut not brazen</em>
+<li>Grounded <em>but not stodgy</em>
+<li>Compassionate <em>but not condescending</em>
+</ul>  
   
-  
-### Personality Map
+<h3>Personality Map</h3>
 
-![Personality Map](http://presidential-innovation-fellows.github.com/mygov/images/content/personality-map.png)
-
-
-### Voice
-
-The voice of MyGov is conversational, warm, and above all talks to people in a way that you might overhear a your corner coffee shop. The voice may carry a certain gravitas at times, depending on the seriousness of the situation, but will always be there to listen and understand. MyGov always uses “we” and “us” to show it’s working alongside the person to complete the task.
-
-MyGov would never say something cold or robotic, and prefers “won’t” over “will not” because that’s how humans actually speak to each other. And while you won’t see MyGov getting hung up on “she/he” when a &ldquo;their” sounds more conversational, watch out: the word nerd comes out when “there/their/they’re” show up in the experience.
-
-Sure, there are times we’d like to shout at the computer, too—but you’ll never come across an entire paragraph of all caps. Now that you mention it, even Title Case Can Kind of Look Like Shouting, What With All The Up And Down – so MyGov avoids it whenever possible.
-
-When presenting people with questions or fields to fill out, MyGov likes to ask real questions. So instead of “Primary Address” (read in your best Wall-E voice) you’ll see, “Where do you live most of the time?” In the same vein, MyGov avoids saying “user” or “citizen” and sticks with “person” or “people” to convey a greater sense of unity.
-
-When you have questions, or there’s something difficult to figure out, MyGov gets straight to the point to help folks understand their options. There’s no reason to use 50¢ words when simple ones will do.
+<div class="six-col clear">
+<img src="http://presidential-innovation-fellows.github.com/mygov/images/content/personality-map.png" alt="personality map" />
+</div>
 
 
+<div class="clear">
 
-#### Copy Examples
+<h3>Voice</h3>
 
-{: .copy_examples}
-* **In App Greetings** Welcome back, Todd. It’s nice to see you again.
-* **Success Feedback** Congratulations! Your form’s been sent.
-* **Error Feedback** Please fill out the address field.
-* **General Message** Gone are the days of filling out forms over and over again.
-* **Progression Feedback** Great job! You’re almost done.
-* **Help Copy** We’re going to walk you through this step by step.
-* **Critical Failure** FATAL ERROR! *Just kidding… MyGov wouldn’t say it that way.* Our apologies…the form can’t be displayed right now. Rest assured, we’re working on it and hope to have it back up and running for you soon.
+<p>The voice of MyGov is conversational, warm, and above all talks to people in a way that you might overhear a your corner coffee shop. The voice may carry a certain gravitas at times, depending on the seriousness of the situation, but will always be there to listen and understand. MyGov always uses &ldquo;we&rdquo; and &ldquo;us&rdquo; to show it&rsquo;s working alongside the person to complete the task.</p>
 
-### Visual Lexicon
+<p>MyGov would never say something cold or robotic, and prefers &ldquo;won&rsquo;t&rdquo; over &ldquo;will not&rdquo; because that&rsquo;s how humans actually speak to each other. And while you won&rsquo;t see MyGov getting hung up on &ldquo;she/he&rdquo; when a &ldquo;their&rdquo; sounds more conversational, watch out: the word nerd comes out when &ldquo;there/their/they&rsquo;re&rdquo; show up in the experience.</p>
 
+<p>Sure, there are times we&rsquo;d like to shout at the computer, too—but you&rsquo;ll never come across an entire paragraph of all caps. Now that you mention it, even Title Case Can Kind of Look Like Shouting, What With All The Up And Down – so MyGov avoids it whenever possible.</p>
 
+<p>When presenting people with questions or fields to fill out, MyGov likes to ask real questions. So instead of &ldquo;Primary Address&rdquo; (read in your best Wall-E voice) you&rsquo;ll see, &ldquo;Where do you live most of the time?&rdquo; In the same vein, MyGov avoids saying &ldquo;user&rdquo; or &ldquo;citizen&rdquo; and sticks with &ldquo;person&rdquo; or &ldquo;people&rdquo; to convey a greater sense of unity.</p>
 
-#### Color
+<p>When you have questions, or there&rsquo;s something difficult to figure out, MyGov gets straight to the point to help folks understand their options. There&rsquo;s no reason to use 50¢ words when simple ones will do.</p>
 
-The MyGov color palette evokes a timeless American quality. Red, white and blue, to be sure, but mixed with a sense of classic sophistication and quality. That sense of pride you get from the gold letters on your passport, or the seeing the phrase “Team USA” on the back of a track jacket as it runs by. 
+<h4>Copy Examples</h4>
 
+<ul>
+<li><strong>In App Greetings</strong> <span>Welcome back, Todd. It&rsquo;s nice to see you again.</span></li>
+<li><strong>Success Feedback</strong><span>Congratulations! Your form&rsquo;s been sent.</li>
+<li><strong>Error Feedback</strong><span>Please fill out the address field.</li>
+<li><strong>General Message</strong><span>Gone are the days of filling out forms over and over again.</li>
+<li><strong>Progression Feedback</strong><span>Great job! You&rsquo;re almost done.</li>
+<li><strong>Help Copy</strong><li>We&rsquo;re going to walk you through this step by step.</li>
+<li><strong>Critical Failure</li>
+<li><strong>FATAL ERROR!</strong> <span>Just kidding… MyGov wouldn&rsquo;t say it that way.</li>
+<li>Our apologies...the form can&rsquo;t be displayed right now. Rest assured, we&rsquo;re working on it and hope to have it back up and running for you soon.</li>
+</ul>
 
-#### General Style Notes
+<h3>Visual Lexicon</h3>
 
-A blended mix of modern and historical visuals, the interface elements carry both weight and trust. Gravitas meets accessibility. The MyGov team firmly believes that interaction with government should be not just easy to use, but an uplifting and aspirational experience—an exercise in basic fundamental freedoms. MyGov visuals are designed to underscore this point at every turn. 
+<h4>Color/h4>
 
-For full style considerations, please take a moment to view the Style Tile.
+<p>The MyGov color palette evokes a timeless American quality. Red, white and blue, to be sure, but mixed with a sense of classic sophistication and quality. That sense of pride you get from the gold letters on your passport, or the seeing the phrase &ldquo;Team USA&rdquo; on the back of a track jacket as it runs by.</p>
 
+<h4>General Style Notes</h4>
 
+<p>A blended mix of modern and historical visuals, the interface elements carry both weight and trust. Gravitas meets accessibility. The MyGov team firmly believes that interaction with government should be not just easy to use, but an uplifting and aspirational experience—an exercise in basic fundamental freedoms. MyGov visuals are designed to underscore this point at every turn. </p>
 
+<p>For full style considerations, please take a moment to view the Style Tile.</p>
 
-### Engagement Methods
+<h3>Engagement Methods</h3>
 
+<h4>Surprise and Delight</h4>
 
+<p>When a person goes to fill out a government form, having much of it done already for them.</p>
 
+<p>MyGov strives to be an experience that feels decidedly un-government like.</p>
 
-#### Surprise and Delight
+<h4>Personalization</h4>
 
-When a person goes to fill out a government form, having much of it done already for them.
+<p>Information that may be helpful to a person, based on where they live.</p>
 
-MyGov strives to be an experience that feels decidedly un-government like.
+<h4>Discoverability</h4>
 
-#### Personalization
+<p>As they&rsquo;re on a government website, letting them know there may be something of interest there.</p>
 
-Information that may be helpful to a person, based on where they live. 
+<em>Example: You filled out Form ABC, 90% of folks who filled this out also used Form LMNO.</em></p>
 
+<p>Alerts and notifications based on info the person gives us.</p>
 
+<p><em>Example: Toy recalls sent via SMS, email, or a MyGov toolbar alert.</em></p>
 
-
-
-#### Discoverability
-
-As they’re on a government website, letting them know there may be something of interest there.
-
-*Example: You filled out Form ABC, 90% of folks who filled this out also used Form LMNO.*
-
-Alerts and notifications based on info the person gives us.
-
-
-
-*Example: Toy recalls sent via SMS, email, or a MyGov toolbar alert.*
-
-
+</div>
+</div>
 </div>
