@@ -8,7 +8,6 @@ published: true
 id: -experience-persona
 ---
 
-<h3 class="page-title">Experience Persona</h3>
 
 <div class="four-col" markdown="1">
 
