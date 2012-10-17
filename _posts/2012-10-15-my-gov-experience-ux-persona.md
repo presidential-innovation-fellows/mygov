@@ -25,7 +25,9 @@ Humans create websites for other humans to read. So when did we start talking to
 
 Or some other equally horrific text. Instills confidence, right?
 
-Changing the copy, and even the way it's displayed, is such an easy fix, and becomes an opportunity to create a more pleasant user experience (UX). We really shouldn't ever blame the user. Soften it up, reposition it, and present it as:
+Changing the copy, and even the way it's displayed, is such an easy fix, and becomes an opportunity to create a more pleasant user experience (UX). UX generally refers to how a person feels when they interact with a website or a computer program. Thinking more holistically, it can also refer to when you're enjoying your Starbucks or riding the bus to work.
+
+Getting back to our example above, we should avoid blaming the user whenever possible. Soften the copy, reposition the error, and present it as:
 
 "We can't seem to find that address. Please try entering it again."
 
@@ -35,7 +37,7 @@ Said this way, the onus is on us, the creators, and doesn't make the person usin
 
 One way to address this issue before someone even sees this error is to have an experience persona document in place. An experience persona informs what the UX looks, feels, and sounds like - and ensures that everyone, from engineers to editors, designers to developers, has a central place, a roadmap of sorts, to create a well-crafted interaction.
 
-UX generally refers to how a person feels when they interact with a website or a computer program. Thinking more holistically, it can also refer to when you're enjoying your Starbucks or riding the bus to work. Each of these things is an experience, an opportunity to delight people.
+Each of these things is an experience, an opportunity to delight people.
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
 
