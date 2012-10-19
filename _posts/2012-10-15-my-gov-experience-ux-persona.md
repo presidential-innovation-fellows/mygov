@@ -83,13 +83,13 @@ There are six parts to an experience persona: Overview, Brand Traits, Personalit
 
 **Overview**
 
-*Eleanor Franklin is the face of MyGov, and the embodiment of the experience personality. Eleanor’s calm demeanor communicates trust, and her approachable nature lets people know this experience is centered around their needs. Ellie, as she’s known, always welcomes people with an easy to understand, conversational tone that calms folks during what can be times of intense of change. The classic style lets people know that MyGov offers timeless experience that isn’t subject to the whims and tides of whatever’s “in” at the moment. Ellie likes to give people information that may be useful to them, and she enjoys helping them get stuff done.*
+*Eleanor Franklin sets the tone for the MyGov experience - what it looks, feels, and sounds like. Her warm demeanor communicates trust, and her approachable nature lets people know this experience is centered around their needs. Ellie, as she’s known, always welcomes people with an easy to understand, conversational tone that calms folks during what can be times of intense change. The classic style lets people know that MyGov offers timeless experience that isn’t subject to the whims and tides of whatever’s “in” at the moment. Ellie likes to give people information that may be useful to them, and she enjoys helping them get stuff done.*
 
 We chose the name Eleanor because it's a classic, strong name, but can be modernized by shortening it to Ellie. Franklin is a nod to Benjamin Franklin, a Founding Father and relentlessly curious soul.
 
 **Brand traits**
 
-Trustworthy and friendly rose quickly to the top of the list for us. It's just as important, though, to have non-examples. So while the MyGov experience should come across as a fresh, it shouldn't be trendy. Personable, but not creepy. Grounded, but not stodgy. You get the idea.
+Trustworthy and friendly rose quickly to the top of the list for us. It's equally important, though, to have non-examples. So while the MyGov experience should come across as a fresh, it shouldn't be trendy. Personable, but not creepy. Grounded, but not stodgy. You get the idea.
 
 **Voice**
 
