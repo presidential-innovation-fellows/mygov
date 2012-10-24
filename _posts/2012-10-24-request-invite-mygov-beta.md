@@ -15,6 +15,8 @@ We're one step closer to debuting the MyGov beta. Starting today, you can reques
 
 [Request an invite for MyGov Beta](http://bit.ly/mygovlincoln).
 
+<!-- more -->
+
 ###FAQs
 
 *When will the beta be released?*
