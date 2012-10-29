@@ -19,7 +19,7 @@ As our code becomes public there are a number of ways for people to contribute. 
 * **Internationalization** - Contribute translations in other languages
 * **Technical Folks** - Fork the development versions and submit a pull request, especially for any known issues.
 
-<a name="call">&nbsp;</a>
+<a name="call" style="text-decoration:none">&nbsp;</a>
 ## Call for Developers
 
 We are currently looking for awesome Ruby on Rails developers to help out as we ramp up toward delivery. If you're a Federal government employee, check out the detailee description below -- and if you're not a Federal government employee, please check out the intern description below.
