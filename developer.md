@@ -19,8 +19,9 @@ As our code becomes public there are a number of ways for people to contribute. 
 * **Internationalization** - Contribute translations in other languages
 * **Technical Folks** - Fork the development versions and submit a pull request, especially for any known issues.
 
-## Call for Developers
 <a name="call"></a>
+## Call for Developers
+
 We are currently looking for awesome Ruby on Rails developers to help out as we ramp up toward delivery. If you're a Federal government employee, check out the detailee description below -- and if you're not a Federal government employee, please check out the intern description below.
 
 **Detailee, General Services Administration, Presidential Innovation Fellows Project MyGov**
