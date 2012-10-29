@@ -46,4 +46,4 @@ Timeframe: Candidates must be able to start immediately and must be willing to c
 
 Note: Applicants do not need to be in the D.C. area and can work remotely, but must be available for full-time work.
 
-Individuals who are interested in this opportunity should send an e-mail (subject: Applicant - MyGov Developer) and a resume to: Greg Gershman at gregory.gershman@gsa.gov by November 15th, 2012.
+Individuals who are interested in this opportunity should send an e-mail (subject: Applicant - MyGov Developer) and a resume to: Greg Gershman at <a href='&#109;&#97;&#105;lto&#58;grego&#114;y&#37;2&#69;&#103;%65r%73h&#109;a%&#54;E%40g&#115;a&#46;gov?subject=Applicant - MyGov Developer'>gr&#101;g&#111;r&#121;&#46;&#103;&#101;rshman&#64;&#103;&#115;a&#46;go&#118;</a> by November 15th, 2012.
