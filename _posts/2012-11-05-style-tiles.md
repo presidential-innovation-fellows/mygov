@@ -11,11 +11,7 @@ published: true
 
 ---
 
-A project with a scope as big as MyGov requires lofty ideals. Invocating patriotism without partiasanship, pride without boasting, and classical ideals while appearing contemporary -- all part our charge of reimagining the relationship between government and the people. To that end, we wanted to share the where the visual direction MyGov is heading. I've been working hard the past several weeks distilling our research at both the Library of Congress and National Archives into style tiles. 
-
-<!-- more -->
-
-<div class="alignright" style="font-size: 1em; margin: 0 0 1em 1em;">
+<div class="alignright" style="font-size: 1em; margin: 0 0 1em 1em; padding: 0; width: auto;">
 
 <a class="grouped_elements" rel="group1" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v1.png"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/styletiles-thumb.jpg" alt="Style Tiles" /></a>
   
@@ -28,6 +24,12 @@ A project with a scope as big as MyGov requires lofty ideals. Invocating patriot
 <p>View the style tiles &rarr;</p>
 
 </div>
+
+A project with a scope as big as MyGov requires lofty ideals. Invocating patriotism without partiasanship, pride without boasting, and classical ideals while appearing contemporary -- all part our charge of reimagining the relationship between government and the people. To that end, we wanted to share the where the visual direction MyGov is heading. I've been working hard the past several weeks distilling our research at both the Library of Congress and National Archives into style tiles. 
+
+<!-- more -->
+
+
 
 Style tiles are essentially design swatches used to create a quick visual guide for the design and development of MyGov. Rather than create a full visual design mockup in Photoshop or Illustrator, style tiles provide a roadmap for where the MyGov UI design direction. This can then be used to create design elements, or reusable building blocks, that comprise a page in the MyGov platform -- especially useful given the mobile first, responsive design approach we're bringing to MyGov. [For more on style tiles, here's the source.](http://styletil.es/)
 
