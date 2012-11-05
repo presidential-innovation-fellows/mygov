@@ -61,7 +61,7 @@ Caption: Beautiful day for research at Library of Congress. Photo: [source](http
 
 </div>
 
-Project MyGov's goal is to reimagine the relationship between the government and the people, taking what is currently an agency-focused model and making it more centered around people's needs. We decided early on it was critical to the MyGov US to study how the government historically communicated with people, and how people talked to the government. To that end, we conducted research at the Library of Congress and National Archives. (It also informed the [MyGov design and UI](http://bit.ly/mygovuxpersona).)
+Project MyGov's goal is to reimagine the relationship between the government and the people, taking what is currently an agency-focused model and making it more centered around people's needs. We decided early on it was critical to the MyGov US to study how the government historically communicated with people, and how people talked to the government. To that end, we conducted research at the Library of Congress and National Archives. (It also informed the [MyGov design and UI](http://bit.ly/mygovdesign).)
 
 We're grateful to Eric Frazier from Library of Congress, who took the time to carefully curate our session in the Rare Books and Special Collections Reading Room. Artifacts such as an original Democratic Party ticket and a document from the Colony of New Hampshire helped us understand how people communicated back then. We also studied the old WPA posters, created under Franklin Delano Roosevelt's New Deal and produced between 1936 to 1943.
 
