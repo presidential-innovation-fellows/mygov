@@ -15,7 +15,7 @@ A project with a scope as big as MyGov requires lofty design ideals. Invocating 
 
 <!-- more -->
 
-<div class="alignright" style="font-size: 1em">
+<div class="alignright" style="font-size: 1em; margin: 0 0 1em 1em;">
 
 <a class="grouped_elements" rel="group1" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v1.png"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/styletiles-thumb.jpg" alt="Style Tiles" /></a>
   
