@@ -266,7 +266,7 @@ header h2.organization {
 /*** Core Link Styles ***/
 a {color: #0A2140; text-decoration: underline;}
 a:active {color: #457DB3;}
-a:hover {color: #555; background: #eee;}
+a:hover {color: #555; }
 a:visited {color: #555;}
 
 .contentarea {margin: 0 4%;}
