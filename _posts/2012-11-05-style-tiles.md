@@ -25,7 +25,7 @@ published: true
 
 </div>
 
-A project with a scope as big as MyGov requires lofty ideals. Invocating patriotism without partiasanship, pride without boasting, and classical ideals while appearing contemporary -- all part our charge of reimagining the relationship between government and the people. To that end, we wanted to share the where the visual direction MyGov is heading. I've been working hard the past several weeks distilling our research at both the Library of Congress and National Archives into style tiles. 
+A project with a scope as big as MyGov requires lofty ideals. Invoking patriotism without partiasanship, pride without boasting, and classical ideals while appearing contemporary -- all part our charge of reimagining the relationship between government and the people. To that end, we wanted to share the where the visual direction MyGov is heading. I've been working hard the past several weeks distilling our research at both the Library of Congress and National Archives into style tiles. 
 
 <!-- more -->
 
