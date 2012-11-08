@@ -11,7 +11,7 @@ published: true
 
 ---
 
-<div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
+<div class="alignright" markdown="1">
 
 <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Robot"></a><br />
 
@@ -39,7 +39,7 @@ One way to address this issue before someone even sees this error is to have an 
 
 Each of these things is an experience, an opportunity to delight people.
 
-<div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
+<div class="alignright" markdown="1">
 
 <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier-thumb.jpg" alt="Tower of Terror Loby"></a><br />
 
@@ -83,7 +83,7 @@ There are six parts to an experience persona: Overview, Brand Traits, Personalit
 
 **Overview**
 
-*Eleanor Franklin sets the tone for the MyGov experience - what it looks, feels, and sounds like. Her warm demeanor communicates trust, and her approachable nature lets people know this experience is centered around their needs. Ellie, as she’s known, always welcomes people with an easy to understand, conversational tone that calms folks during what can be times of intense change. The classic style lets people know that MyGov offers timeless experience that isn’t subject to the whims and tides of whatever’s “in” at the moment. Ellie likes to give people information that may be useful to them, and she enjoys helping them get stuff done.*
+*Eleanor Franklin sets the tone for the MyGov experience - what it looks, feels, and sounds like. Her warm demeanor communicates trust, and her approachable nature lets people know this experience is centered around their needs. Ellie, as she’s known, always welcomes people with an easy to understand, conversational tone that calms folks during what can be times of intense change. The classic style lets people know that MyGov offers timeless experience that isn't subject to the whims and tides of whatever's "in" at the moment. Ellie likes to give people information that may be useful to them, and she enjoys helping them get stuff done.*
 
 We chose the name Eleanor because it's a classic, strong name, but can be modernized by shortening it to Ellie. Franklin is a nod to Benjamin Franklin, a Founding Father and relentlessly curious soul.
 
