@@ -1,22 +1,25 @@
-<div class="two-col navigation">
-<div class="sticky-nav-container">
-<nav id="nav-wrap" class="group">
-<div id="menu-icon">
-	<div class="icon">
-		<span class="line"></span>
-		<span class="line"></span>
-		<span class="line"></span>
-	</div>
-	Menu
-</div>
-<ul class="page-list group" role="menu" id="nav">
-	<li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="{{ site.url }}">Home<div class="arrow"></div><div class="arrow"></div></a>
-	<li{% if page.url == "/about/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/about/">The Project<div class="arrow"></div></a>
-	<li{% if page.url == "/team/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/team/">The Team<div class="arrow"></div></a>
-	<li{% if page.url == "/contact/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/contact/">The Conversation<div class="arrow"></div></a>
-	<li{% if page.url == "/developer/" %} class="active"{% endif %}><a href="{{ site.url }}/developer/">Developers<div class="arrow"></div></a>
-</ul>
-</nav><!--/nav-->
-<div>&nbsp;</div>
-</div><!--.sticky-nav-container -->
-</div><!--/two-col-->
+<div class="fixed contain-to-grid">
+
+<nav class="top-bar">
+  <ul>
+    <li class="toggle-topbar"><a href="#"></a></li>
+  </ul>
+  <section>
+    <ul class="left">
+    <li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="{{ site.url }}">Home</a>
+    <li{% if page.url == "/about/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/about/">The Project</a>
+  	<li{% if page.url == "/team/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/team/">The Team</a>
+  	<li{% if page.url == "/contact/index.html" %} class="active"{% endif %}><a href="{{ site.url }}/contact/">The Conversation</a>
+  	<li{% if page.url == "/developer/" %} class="active"{% endif %}><a href="{{ site.url }}/developer/">Developers</a>
+    
+    </ul>
+
+   
+  </section>
+</nav>
+
+</div><!-- /fixed contain to grid -->
+
+<!--
+{% include widgets/search.html %}
+-->

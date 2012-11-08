@@ -1,0 +1,292 @@
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+  font-size: 1em;
+  background: url(../images/design/background.png) bottom right no-repeat fixed;
+}
+
+.contentarea, .footercontentarea {
+  padding: 0 2%;
+}
+
+header {padding-bottom: 1.75em; padding-top: 3.5em;}
+
+header h1 a, 
+header h1 a:visited {
+  display: block;
+  font-weight: 100;
+  font-size: 1.9em;
+  font-weight: normal;
+  padding: 0 0 0 0;
+  text-decoration: none;
+  text-indent: -999em;
+  height: 100px;
+  margin: 0 auto;
+  text-align: center;
+  background: none;
+  background-color: none;
+  background: url(../images/design/h1.png) top center no-repeat;
+}
+
+header h1 a:visited {
+  opacity: 1; 
+  background-color: none;
+  background: url(../images/design/h1.png) top center no-repeat;
+}
+
+header h1 a:hover, header h1 a:active {background: transparent url(../images/design/h1.png) top center no-repeat; opacity: .9; border-bottom: none;}
+
+header h2.tagline {padding-bottom: .4em; font-size: 1em; display: block; }
+
+header h2.tagline {
+  padding: 0; 
+  margin: 0; 
+  text-transform: uppercase; 
+  font-family: Georgia, 'Times New Roman', serif; 
+  color: #58585B; 
+  font-size: .9em;
+  font-weight: normal;
+  font-weight: 100;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+header h2.organization {
+  padding: .75em 0; 
+  display: block; 
+  text-transform: uppercase; 
+  color: #BE8B40; 
+  border-top: 1px solid #eee;  
+  font-size: .75em; 
+  font-family: Helvetica, Arial, sans-serif; 
+  letter-spacing: 2px;
+  width: 95%; 
+  text-align: center;
+  margin: .75em auto;
+}
+
+img.alignleft {padding: .25em; background: rgba(0,0,0,.05); border: 1px solid rgba(0,0,0,.1); float: left; margin: 0 1em 1em 0;}
+
+/*** Ribbon ***/
+
+img.ribbon {
+  position: absolute; 
+  top: 2em; 
+  right: 0; 
+  border: 0;
+}
+
+.alignright {
+  float: right;
+  margin: 0 0 1.5em 3em;
+  width: 20em;
+  text-align: left;
+  font-style: italic;
+}
+
+
+.alignright img {
+  background: #eee;
+  background: rgba(0,0,0,.1);
+  padding: .4em;
+  margin: 0 0 1em 0;
+  border: 1px solid rgba(0,0,0,.1);
+}
+
+.post-meta {
+  border-bottom: 1px solid #eee;
+  font-size: .9em;
+  font-style: normal;
+  color: #777;
+  padding: 0 0 .5em 0;
+  font-family: 'Century Gothic', 'Helvetica Neue', Helvetica, Arial, sans-serif;  
+}
+
+/*** Fonts ***/
+
+@font-face {
+  font-family: 'GoudyBookLetter';
+  src: url('../fonts/goudy_bookletter_1911-webfont.eot');
+  src: url('../fonts/goudy_bookletter_1911-webfont.eot?#iefix') format('eot'),
+       url('../fonts/goudy_bookletter_1911-webfont.woff') format('woff'),
+       url('../fonts/goudy_bookletter_1911-webfont.ttf') format('truetype'),
+       url('../fonts/goudy_bookletter_1911-webfont.svg#webfontSlc9PA76') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.post h1, 
+.post h2, 
+.post h3, 
+.post h4, 
+.post h5, 
+.post h6 {font-family: 'GoudyBookLetter', Helvetica, Georgia, serif; font-weight: normal; color: #112137;}
+
+.post a {color: #112137;}
+
+
+.post ul {list-style-type: square;}
+
+
+/*** Footer ***/
+
+#footer {
+  margin: 4em 0 0 0;
+  padding: 1em 0;
+  overflow: hidden;
+  background: #112137;
+  border-top: 6px solid #911A1D;
+}
+
+
+
+#footer h1,
+#footer h2,
+#footer h3,
+#footer h4,
+#footer h5,
+#footer h6 {color: #fff;}
+
+#footer ul {margin: 0; padding: 0;}
+#footer ul li {color: #fff; list-style: none; list-style-type: none; border-bottom: 2px solid #1A6485; display: block; padding: 1em 0; }
+
+#footer ul li a {color: #fff; border-bottom: 1px solid rgba(255,255,255,.3);}
+#footer a:visited {color: #fff;}
+
+/*** Posts ***/
+
+footer .row {margin-bottom: 0; padding-bottom: 0;}
+
+.post {border-bottom: 1px solid #1A6485; padding-bottom: 1.5em; margin: 2em 0; clear: both;}
+
+body.post {padding-bottom: 0; border-bottom: none;}
+
+.entrybody {margin-top: 1em;}
+
+
+/* Foundation Top Bar
+ Requires: -jquery.foundation.topbar.js
+ Notes: - <nav class="top-bar"> can have .fixed added to make it stick to the top of viewport. Can add .contain-to-grid to top-bar to make it full width but content on grid. - <li class="name"> creates a branding area that can be linked to homepage - Can include text, image or both inside this <li>. - <li class="divider"> creates a divider between nav items, add margins for space - <li class="search"> Needs to hold a <form> which can use .row.collapse and pre/postfix buttons or default type="search"
+*/
+/* Element that controls breakpoint, no need to change this ever */
+.top-bar-js-breakpoint { width: 940px !important; visibility: hidden; }
+
+/* Wrapped around .top-bar to contain to grid width */
+.contain-to-grid { width: 100%; background: #112137; }
+
+/* Wrapped around .top-bar to make it fixed at the top */
+.fixed { width: 100%; left: 0; position: fixed; top: 0; z-index: 99; }
+
+/* <nav> */
+.top-bar { background: #112137; height: 45px; line-height: 45px; margin: 0 0 30px;
+  font-family: 'GoudyBookLetter', Helvetica, Georgia, serif; font-weight: normal;
+ padding: 0; width: 100%; /* Contain width to .row width */ /* First <ul> for branding, title, name, etc */ /* topbar global <ul> styles */ }
+.contain-to-grid .top-bar { width: 940px; margin: 0 auto; }
+.top-bar > ul .name h1 { line-height: 45px; margin: 0; }
+.top-bar > ul .name h1 a { font-weight: bold; padding: 0 22.5px; font-size: 17px !important; }
+.top-bar > ul .name img { margin-top: -5px; vertical-align: middle; }
+.top-bar ul { display: inline; height: 45px; line-height: 45px; list-style: none; /* Main Navigation links style */ /* Left Side <ul> */ /* Right Side <ul> */ }
+.top-bar ul > li { float: left; /* Dividers between navigation */ /* Put a button in an <li> but give is a class */ /* Put a search bar or text input in the bar */ /* Hide the triangle for breakpoint menu */ /* li.has-dropdown */ }
+.top-bar ul > li a:not(.button) { color: white; display: block; font-size: 13px; font-weight: bold; height: 45px; line-height: 45px; padding: 0 15px; }
+.top-bar ul > li:hover, .top-bar ul > li.active { background: #1A6485; }
+.top-bar ul > li:hover a, .top-bar ul > li.active a { color: #fff; }
+.top-bar ul > li.divider { background: black; -webkit-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1); -moz-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1); box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1); height: 100%; margin-right: 1px; width: 1px; }
+.top-bar ul > li.has-button a.button { margin: 0 11.25px; }
+.top-bar ul > li.has-button:hover { background: #1A6485; }
+.top-bar ul > li.has-button:hover a { color: #fff; }
+.top-bar ul > li.search { padding: 0 15px; }
+.top-bar ul > li.search form { display: inline-block; margin-bottom: 0; vertical-align: middle; width: 200px; }
+.top-bar ul > li.search form input[type=text] { -moz-border-radius-topright: 0; -webkit-border-top-right-radius: 0; border-top-right-radius: 0; -moz-border-radius-bottomright: 0; -webkit-border-bottom-right-radius: 0; border-bottom-right-radius: 0; float: left; font-size: 13px; margin-top: -1px; height: 22.5px; }
+.top-bar ul > li.search form input[type=text] + .button { border-left: none; -moz-border-radius-topleft: 0; -webkit-border-top-left-radius: 0; border-top-left-radius: 0; -moz-border-radius-bottomleft: 0; -webkit-border-bottom-left-radius: 0; border-bottom-left-radius: 0; float: left; font-size: 12px; margin-top: -1px; padding: 5px 12px 4px; }
+.top-bar ul > li.search form input[type=search] { font-size: 16px; margin-bottom: 0; }
+.top-bar ul > li.search:hover { background: #1A6485; }
+.top-bar ul > li.toggle-topbar { display: none; }
+.top-bar ul > li.has-dropdown { position: relative; /* Dropdown Level 2+ */ }
+.top-bar ul > li.has-dropdown:hover > .dropdown { display: block; visibility: visible; }
+.top-bar ul > li.has-dropdown a { padding-right: 33.75px; }
+.top-bar ul > li.has-dropdown a:after { content: ""; display: block; width: 0; height: 0; border: solid 5px; border-color: white transparent transparent transparent; margin-right: 15px; margin-top: -2.5px; position: absolute; right: 0; top: 50%; }
+.top-bar ul > li.has-dropdown .dropdown { background: #222222; left: 0; margin: 0; padding: 9px 0 0 0; position: absolute; visibility: hidden; z-index: 99; }
+.top-bar ul > li.has-dropdown .dropdown li { background: #222222; line-height: 1; min-width: 100%; padding-bottom: 5px; }
+.top-bar ul > li.has-dropdown .dropdown li a { font-weight: normal; height: 100%; line-height: 1; padding: 5px 17px 5px 15px; white-space: nowrap; }
+.top-bar ul > li.has-dropdown .dropdown li a:after { border: none; }
+.top-bar ul > li.has-dropdown .dropdown li a:hover { background: #3c3c3c; }
+.top-bar ul > li.has-dropdown .dropdown li label { color: #6f6f6f; font-size: 10px; font-weight: bold; margin: 0; padding-left: 15px; text-transform: uppercase; }
+.top-bar ul > li.has-dropdown .dropdown li.divider { border-top: solid 1px black; -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset; -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset; box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset; height: 10px; padding: 0; width: 100%; }
+.top-bar ul > li.has-dropdown .dropdown li:last-child { padding-bottom: 10px; }
+.top-bar ul > li.has-dropdown .dropdown li.has-dropdown > a { padding-right: 30px; }
+.top-bar ul > li.has-dropdown .dropdown li.has-dropdown > a:after { border: none; content: "\00bb"; right: 5px; top: 6px; }
+.top-bar ul > li.has-dropdown .dropdown li.has-dropdown .dropdown { position: absolute; left: 100%; top: 0; }
+.top-bar ul > li.has-dropdown .dropdown li.has-dropdown:hover > .dropdown { display: block; }
+.top-bar ul.left { float: left; width: auto; margin-bottom: 0; }
+.top-bar ul.right { float: right; width: auto; margin-bottom: 0; /* Dropdown Right Side Alignment */ }
+.top-bar ul.right .has-dropdown .dropdown { left: auto; right: -1px; }
+.top-bar ul.right .has-dropdown .dropdown li.has-dropdown > .dropdown { right: 100%; left: auto; width: 100%; }
+.top-bar .js-generated { display: none; }
+
+/* Firefox Fixes */
+@-moz-document url-prefix() { .top-bar ul li .button.small { padding-bottom: 6px; }
+  .top-bar ul li.search form input[type=search] { font-size: 14px; height: 22px; padding: 3px; } }
+
+/* IE8 Fixes */
+.lt-ie9 .top-bar ul li a { color: white; display: block; font-weight: bold; font-size: 13px; height: 45px; line-height: 45px; padding: 0 15px; }
+.lt-ie9 .top-bar ul li a.button { height: auto; line-height: 30px; margin-top: 7px; }
+.lt-ie9 .top-bar ul li a:hover { color: #cccccc; }
+.lt-ie9 .top-bar ul li a img { margin-top: -5px; vertical-align: middle; }
+.lt-ie9 .top-bar ul li a.active { background: #151515; color: #d9d9d9; }
+
+.lt-ie9 .top-bar ul li.has-dropdown { padding-right: 33.75px; }
+.lt-ie9 .top-bar ul li.has-dropdown > ul li { padding-right: 0; }
+
+/* Mobile Styles */
+@media only screen and (max-width: 940px) { .top-bar { margin-bottom: 0; overflow: hidden; /* Override contain to grid stuff for breakpoint */ /* Setting up the sliding area */ /* When the Small Nav is Showing */ }
+  .top-bar .js-generated { display: block; }
+  .contain-to-grid .top-bar { width: auto; }
+  .top-bar section { left: 0; position: relative; width: auto; -webkit-transition: left 300ms; -moz-transition: left 300ms; -o-transition: left 300ms; transition: left 300ms; }
+  .top-bar ul { width: 100%; min-height: 100%; height: 100%; margin-bottom: 0; display: block; }
+  .top-bar ul li { float: none; /* Branding and name */ /* Dropdown Toggle */ /* Divider for breakpoint */ /* Search Overrides for breakpoint size */ /* Dropdown Level 1 */ /* Dropdown Level 2 */ }
+  .top-bar ul li.active, .top-bar ul li:hover { background: #151515; }
+  .top-bar ul li.name { background: black; }
+  .top-bar ul li.name h1 { line-height: 1; }
+  .top-bar ul li.name h1 a { padding-left: 22.5px; }
+  .top-bar ul li.toggle-topbar { cursor: pointer; display: block; height: 45px; position: absolute; right: 0; top: 0; width: 50%; }
+  .top-bar ul li.toggle-topbar a { content: ""; display: block; width: 0; height: 0; border: solid 8px; border-color: white transparent transparent transparent; padding: 0; position: absolute; top: 50%; right: 22.5px; margin-top: -4px; }
+  .top-bar ul li.toggle-topbar:hover { background: black; }
+  .top-bar ul li.toggle-topbar a { padding: 0 !important; }
+  .top-bar ul li.divider { border-bottom: solid 1px rgba(255, 255, 255, 0.2); border-top: solid 1px black; clear: both; height: 1px !important; margin: 8px 0 !important; width: 100%; }
+  .top-bar ul li.search { padding: 0 22.5px; }
+  .top-bar ul li.search form { width: 100%; }
+  .top-bar ul li.search form input[type=text] { width: 75%; }
+  .top-bar ul li.search form .button { top: 0; width: 25%; }
+  .top-bar ul li.has-dropdown a { padding-right: 33.75px; }
+  .top-bar ul li.has-dropdown a:after { content: ""; display: block; width: 0; height: 0; border: solid 5px; border-color: transparent transparent transparent rgba(255, 255, 255, 0.5); margin-right: 15px; margin-top: -4.5px; position: absolute; top: 50%; }
+  .top-bar ul li.has-dropdown:hover > .dropdown { display: block; visibility: hidden; }
+  .top-bar ul li.has-dropdown .dropdown { visibility: hidden; z-index: 0 !important; }
+  .top-bar ul li.has-dropdown.moved { position: static; }
+  .top-bar ul li.has-dropdown.moved .dropdown { top: 0; visibility: visible; }
+  .top-bar ul li.has-dropdown.moved .dropdown li label { margin-bottom: 6px; padding-top: 6px !important; font-size: 11px; }
+  .top-bar ul li.has-dropdown.moved .dropdown li:not(.title) { padding-bottom: 0; }
+  .top-bar ul li.has-dropdown.moved .dropdown li:not(.title) a { padding: 8px 22.5px; font-size: 14px; }
+  .top-bar ul li.has-dropdown.moved .dropdown li a, .top-bar ul li.has-dropdown.moved .dropdown li label { padding: 0 22.5px; }
+  .top-bar ul li.has-dropdown.moved .dropdown li a:hover { background: transparent; display: block; }
+  .top-bar ul li.has-dropdown.moved .dropdown li.divider { border-bottom: solid 1px rgba(255, 255, 255, 0.1); margin-top: 8px !important; margin-bottom: 8px !important; }
+  .top-bar ul li.has-dropdown.moved .back.title { padding-bottom: 0; }
+  .top-bar ul li.has-dropdown.moved .back.title a:before { position: absolute; top: 50%; left: 17.5px; margin-top: -5px; width: 0; height: 0; content: ""; display: block; width: 0; height: 0; border: solid 5px; border-color: transparent white transparent transparent; }
+  .top-bar ul li.has-dropdown.moved .back.title h5 { margin: 0; padding-left: 15px; position: relative; }
+  .top-bar ul li.has-dropdown.moved .back.title h5 a { padding-top: 8px; padding-bottom: 8px; font-size: 23px; font-weight: bold; }
+  .top-bar ul li.has-dropdown .dropdown li { background: transparent; }
+  .top-bar ul li.has-dropdown .dropdown li.has-dropdown .dropdown { left: 100% !important; top: 0; right: auto !important; }
+  .top-bar ul li.has-dropdown .dropdown li.has-dropdown > a { padding-right: 33.75px; }
+  .top-bar ul li.has-dropdown .dropdown li.has-dropdown > a:after { content: ""; margin-right: 15px; content: ""; display: block; width: 0; height: 0; border: solid 5px; border-color: transparent transparent transparent rgba(255, 255, 255, 0.5); position: absolute; top: 50%; margin-top: -4.5px; }
+  .top-bar ul li.has-dropdown .dropdown li.has-dropdown.moved { position: static; }
+  .top-bar ul li.has-dropdown .dropdown li.has-dropdown.moved .dropdown { top: 0; visibility: visible; }
+  .top-bar ul li.has-dropdown .dropdown li.has-dropdown:hover { display: block; }
+  .top-bar ul.left, .top-bar ul.right { float: none; width: 100%; }
+  .top-bar ul.left > li, .top-bar ul.right > li { display: block; float: none; margin: 0 !important; }
+  .top-bar ul.left > li.has-dropdown .dropdown, .top-bar ul.right > li.has-dropdown .dropdown { left: 100% !important; top: 0; right: auto !important; }
+  .top-bar section > ul li a:not(.button) { padding-left: 22.5px !important; }
+  .top-bar.expanded { height: 100%; }
+  .top-bar.expanded ul li.toggle-topbar a { content: ""; display: block; width: 0; height: 0; border: solid 8px; border-color: transparent transparent rgba(255, 255, 255, 0.5) transparent; top: auto; bottom: 50%; margin-bottom: -4px; }
+  .top-bar ul li.has-button { padding: 0 20px 5px; }
+  .top-bar ul li .button.small { margin: 0 !important; display: inline-block; width: 100%; } }
+
+
