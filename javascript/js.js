@@ -11,6 +11,9 @@ layout: none
 {% include js/commits.js %}
 {% include js/tweets.js %}
 {% include js/search.js %}
+{% include js/mff/foundation.min.js %}
+{% include js/mff/app.js %}
 {% include js/fancybox.js %}
+
 {% endcapture %}
 {{ js }}
