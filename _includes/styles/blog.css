@@ -4,11 +4,11 @@ body {
   background: url(../images/design/background.png) bottom right no-repeat fixed;
 }
 
-.contentarea, .footercontentarea {
+.contentarea, .footercontent {
   padding: 0 2%;
 }
 
-header {padding-bottom: 1.25em; padding-top: .5em;}
+header {padding-bottom: .5em; padding-top: 1em;}
 
 header h1 a, 
 header h1 a:visited {
@@ -31,6 +31,15 @@ header h1 a:visited {
   opacity: 1; 
   background-color: none;
   background: url(../images/design/h1.png) top center no-repeat;
+}
+
+html.backgroundsize header h1 a {
+  background-size: contain;
+  height: 100px;
+}
+
+@media only screen and (max-width: 520px) {
+  header h2 {display: none; padding: 0;}
 }
 
 header h1 a:hover, header h1 a:active {background: transparent url(../images/design/h1.png) top center no-repeat; opacity: .9; border-bottom: none;}
@@ -77,15 +86,15 @@ img.ribbon {
 
 .alignright {
   float: right;
-  margin: 0 0 1.5em 3em;
-  width: 20em;
+  margin: 0 0 1.5em 4em;
+  width: 18em;
   text-align: left;
   font-style: italic;
+  font-size: .8em;
 }
 
 
 .alignright img {
-  background: #eee;
   background: rgba(0,0,0,.1);
   padding: .4em;
   margin: 0 0 1em 0;
@@ -100,6 +109,8 @@ img.ribbon {
   padding: 0 0 .5em 0;
   font-family: 'Century Gothic', 'Helvetica Neue', Helvetica, Arial, sans-serif;  
 }
+
+.post h2 a:hover {border-bottom: 1px solid #eee;}
 
 /*** Fonts ***/
 
@@ -137,6 +148,7 @@ img.ribbon {
   background: #112137;
   border-top: 6px solid #911A1D;
 }
+
 
 
 

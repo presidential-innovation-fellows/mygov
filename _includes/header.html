@@ -25,6 +25,38 @@
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }} &raquo; RSS Feed" href="http://feeds.feedburner.com/ProjectMygov/">
 {% include drop-ins/seo.html %}
 <script src="{{ site.url }}/javascript/modernizr-2.5.3-respond-1.1.0.min.js"></script>
+
+<!-- Photoswipe -->
+
+
+<link href="{{ site.url }}/styles/photoswipe.css" type="text/css" rel="stylesheet" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="{{ site.url }}/javascript/jquery.js"><\/script>')</script>
+
+
+<script src="{{ site.url }}/javascript/js.js"></script>
+
+<script type="text/javascript" src="{{ site.url }}/javascript/klass.min.js"></script>
+<script type="text/javascript" src="{{ site.url }}/javascript/code.photoswipe.jquery-3.0.4.min.js"></script>
+
+<script type="text/javascript">
+
+(function(window, $, PhotoSwipe){
+
+$(document).ready(function(){
+
+	var myPhotoSwipe = $("#Gallery a").photoSwipe({ enableMouseWheel: false, imageScaleMethod: "fitNoUpscale", captionAndToolbarAutoHideDelay: 5000 });
+
+});
+
+}(window, window.jQuery, window.Code.PhotoSwipe));
+
+</script><!-- / Photoswipe -->
+
+
+
 </head>
 <body class="{{ page.layout }} post{{ page.id | replace:"/","-" }}">
 <!--[if lt IE 7]><p class=chromeframe><a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->

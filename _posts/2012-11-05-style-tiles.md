@@ -11,15 +11,15 @@ published: true
 
 ---
 
-<div class="alignright" style="font-size: 1em; margin: 0 0 1em 1em; padding: 0; width: auto;">
+<div class="alignright" id="Gallery">
 
-<a class="grouped_elements" rel="group1" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v1.png"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/styletiles-thumb.jpg" alt="Style Tiles" /></a>
+<a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v1.png"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/styletiles-thumb.jpg" alt="Style Tiles" /></a>
   
-<a class="grouped_elements" rel="group1" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v2.png" style="display: none;" alt="style tiles"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v2.png" style="display: none;" alt="style tiles" /></a>
+<a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v2.png" style="display: none;" alt="style tiles"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v2.png" style="display: none;" alt="style tiles" /></a>
 
-<a class="grouped_elements" rel="group1" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v3.png" style="display: none;"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v3.png" style="display: none;" alt="style tiles" /></a>
+<a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v3.png" style="display: none;"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v3.png" style="display: none;" alt="style tiles" /></a>
 
-<a class="grouped_elements" rel="group1" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v4.png" style="display: none;"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v4.png" style="display: none;" alt="style tiles" /></a>
+<a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v4.png" style="display: none;"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v4.png" style="display: none;" alt="style tiles" /></a>
 
 <p>View the style tiles &rarr;</p>
 
