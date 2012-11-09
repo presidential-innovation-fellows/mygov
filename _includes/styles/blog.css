@@ -10,13 +10,15 @@ body {
 
 header {padding-bottom: .5em; padding-top: 1em;}
 
+header h1 {margin: 0;}
+
 header h1 a, 
 header h1 a:visited {
   display: block;
   font-weight: 100;
   font-size: 1.9em;
   font-weight: normal;
-  padding: 0 0 0 0;
+  padding: 0;
   text-decoration: none;
   text-indent: -999em;
   height: 100px;
@@ -40,6 +42,12 @@ html.backgroundsize header h1 a {
 
 @media only screen and (max-width: 520px) {
   header h2 {display: none; padding: 0;}
+}
+
+@media only screen and (max-width: 520px) {
+  html.backgroundsize header h1 a {height: 50px; background-size: contain; }
+  header {padding-top: .5em; padding-bottom: 0;}
+  body.post {margin-top: 0; padding-top: 0;}  
 }
 
 header h1 a:hover, header h1 a:active {background: transparent url(../images/design/h1.png) top center no-repeat; opacity: .9; border-bottom: none;}
@@ -74,6 +82,15 @@ header h2.organization {
 }
 
 img.alignleft {padding: .25em; background: rgba(0,0,0,.05); border: 1px solid rgba(0,0,0,.1); float: left; margin: 0 1em 1em 0;}
+
+.thumbright {float: right; margin: 0 0 1em 1em;}
+
+@media only screen and (max-width: 540px) {
+
+.thumbright {width: 100%;  margin: 0 0 1em 0; float: none; display: block; background: #eee; padding: .2em;}
+.thumbright img {width: 100%; display: block;}
+
+}
 
 /*** Ribbon ***/
 

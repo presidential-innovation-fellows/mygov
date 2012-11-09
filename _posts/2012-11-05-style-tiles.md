@@ -11,7 +11,7 @@ published: true
 
 ---
 
-<div class="alignright" id="Gallery">
+<div class="thumbright" id="Gallery">
 
 <a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v1.png"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/styletiles-thumb.jpg" alt="Style Tiles" /></a>
   
