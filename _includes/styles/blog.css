@@ -41,13 +41,15 @@ html.backgroundsize header h1 a {
 }
 
 @media only screen and (max-width: 520px) {
-  header h2 {display: none; padding: 0;}
+  
 }
 
 @media only screen and (max-width: 520px) {
   html.backgroundsize header h1 a {height: 50px; background-size: contain; }
   header {padding-top: .5em; padding-bottom: 0;}
-  body.post {margin-top: 0; padding-top: 0;}  
+  body.post {margin-top: 0; padding-top: 0;} 
+  .post h2 {font-size: 1.65em;}
+  header h2.organization {display: none; padding: 0;}
 }
 
 header h1 a:hover, header h1 a:active {background: transparent url(../images/design/h1.png) top center no-repeat; opacity: .9; border-bottom: none;}
@@ -87,7 +89,7 @@ img.alignleft {padding: .25em; background: rgba(0,0,0,.05); border: 1px solid rg
 
 @media only screen and (max-width: 540px) {
 
-.thumbright {width: 100%;  margin: 0 0 1em 0; float: none; display: block; background: #eee; padding: .2em;}
+.thumbright {width: 100%;  margin: 0 0 1em 0; float: none; display: block; background: #eee; padding: .2em; clear: both;}
 .thumbright img {width: 100%; display: block;}
 
 }
