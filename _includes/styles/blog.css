@@ -197,7 +197,7 @@ body.post {padding-bottom: 0; border-bottom: none;}
  Notes: - <nav class="top-bar"> can have .fixed added to make it stick to the top of viewport. Can add .contain-to-grid to top-bar to make it full width but content on grid. - <li class="name"> creates a branding area that can be linked to homepage - Can include text, image or both inside this <li>. - <li class="divider"> creates a divider between nav items, add margins for space - <li class="search"> Needs to hold a <form> which can use .row.collapse and pre/postfix buttons or default type="search"
 */
 /* Element that controls breakpoint, no need to change this ever */
-.top-bar-js-breakpoint { width: 940px !important; visibility: hidden; }
+.top-bar-js-breakpoint { width: 740px !important; visibility: hidden; }
 
 /* Wrapped around .top-bar to contain to grid width */
 .contain-to-grid { width: 100%; background: #112137; }
@@ -207,15 +207,15 @@ body.post {padding-bottom: 0; border-bottom: none;}
 
 /* <nav> */
 .top-bar { background: #112137; height: 45px; line-height: 45px; margin: 0 0 30px;
-  font-family: 'GoudyBookLetter', Helvetica, Georgia, serif; font-weight: normal;
+  font-family: 'GoudyBookLetter', Helvetica, Georgia, serif; font-weight: normal; 
  padding: 0; width: 100%; /* Contain width to .row width */ /* First <ul> for branding, title, name, etc */ /* topbar global <ul> styles */ }
-.contain-to-grid .top-bar { width: 940px; margin: 0 auto; }
+.contain-to-grid .top-bar { width: 740px; margin: 0 auto; }
 .top-bar > ul .name h1 { line-height: 45px; margin: 0; }
 .top-bar > ul .name h1 a { font-weight: bold; padding: 0 22.5px; font-size: 17px !important; }
 .top-bar > ul .name img { margin-top: -5px; vertical-align: middle; }
 .top-bar ul { display: inline; height: 45px; line-height: 45px; list-style: none; /* Main Navigation links style */ /* Left Side <ul> */ /* Right Side <ul> */ }
 .top-bar ul > li { float: left; /* Dividers between navigation */ /* Put a button in an <li> but give is a class */ /* Put a search bar or text input in the bar */ /* Hide the triangle for breakpoint menu */ /* li.has-dropdown */ }
-.top-bar ul > li a:not(.button) { color: white; display: block; font-size: 13px; font-weight: bold; height: 45px; line-height: 45px; padding: 0 15px; }
+.top-bar ul > li a:not(.button) { color: white; display: block; font-size: 1em; font-weight: bold; height: 45px; line-height: 45px; padding: 0 15px; }
 .top-bar ul > li:hover, .top-bar ul > li.active { background: #1A6485; }
 .top-bar ul > li:hover a, .top-bar ul > li.active a { color: #fff; }
 .top-bar ul > li.divider { background: black; -webkit-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1); -moz-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1); box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1); height: 100%; margin-right: 1px; width: 1px; }
@@ -266,7 +266,7 @@ body.post {padding-bottom: 0; border-bottom: none;}
 .lt-ie9 .top-bar ul li.has-dropdown > ul li { padding-right: 0; }
 
 /* Mobile Styles */
-@media only screen and (max-width: 940px) { .top-bar { margin-bottom: 0; overflow: hidden; /* Override contain to grid stuff for breakpoint */ /* Setting up the sliding area */ /* When the Small Nav is Showing */ }
+@media only screen and (max-width: 740px) { .top-bar { margin-bottom: 0; overflow: hidden; /* Override contain to grid stuff for breakpoint */ /* Setting up the sliding area */ /* When the Small Nav is Showing */ }
   .top-bar .js-generated { display: block; }
   .contain-to-grid .top-bar { width: auto; }
   .top-bar section { left: 0; position: relative; width: auto; -webkit-transition: left 300ms; -moz-transition: left 300ms; -o-transition: left 300ms; transition: left 300ms; }
