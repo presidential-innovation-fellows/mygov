@@ -1,3 +1,10 @@
+.post-experience-persona .post img {width: auto;}
+
+@media only screen and (max-width: 520px) {
+  .post-experience-persona .post img {width: 100%;}
+}
+
+
 .post-experience-persona #content h2 {font-size: 2em; border-bottom: 3px solid #ddd; border-top: 0; margin-bottom: 1em; color: #04233F; margin-top: 0; padding-top: 0;}
 
 .post-experience-persona #content h3, .post-experience-persona h4 {

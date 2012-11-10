@@ -40,9 +40,6 @@ html.backgroundsize header h1 a {
   height: 100px;
 }
 
-@media only screen and (max-width: 520px) {
-  
-}
 
 @media only screen and (max-width: 520px) {
   html.backgroundsize header h1 a {height: 50px; background-size: contain; }
