@@ -30,10 +30,10 @@
 .post-experience-persona .copy_examples li strong { display: block; clear: both; }
 
 
-.post-experience-persona .eight-col ul {margin: 0;}
-.post-experience-persona .eight-col ul li {border-bottom: 1px solid #444; list-style: none; margin: 0; padding: 1em 0; text-transform: none; color: #04233F; }
-.post-experience-persona .eight-col ul li:last-child {border-bottom: none; }
+.post-experience-persona .eight.columns ul {margin: 0;}
+.post-experience-persona .eight.columns ul li {border-bottom: 1px solid #444; list-style: none; margin: 0; padding: 1em 0; text-transform: none; color: #04233F; }
+.post-experience-persona .eight.columns ul li:last-child {border-bottom: none; }
 
-.post-experience-persona .eight-col ul li em {text-transform: none; color: #444;}
+.post-experience-persona .eight.columns ul li em {text-transform: none; color: #444;}
 
-.post-experience-persona .eight-col ul li strong {display: block; text-transform: none;}
+.post-experience-persona .eight.columns ul li strong {display: block; text-transform: none;}
