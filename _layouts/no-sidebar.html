@@ -2,7 +2,8 @@
 {% include nav.html %}
 {% include masthead.html %}
 
-<div class="twelve-col last-col" id="content">
+<div class="row">
+<div class="twelve columns" id="content">
 
         <h2>{{ page.title }}</h2>
 		{{ content }}
@@ -15,7 +16,8 @@
 		    {% include drop-ins/comments.html %}
 		{% endif %}
 
-</div><!--/eight-col content main -->
+</div><!--/twelve-col content main -->
+</div><!-- /row -->
 
 {% include tail.html %}
 {% include proscenium.html %}
