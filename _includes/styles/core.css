@@ -430,7 +430,7 @@ body { background: white; font-family: "Helvetica Neue", "Helvetica", Helvetica,
 .left { float: left; }
 .right { float: right; }
 
-.clear {clear: both; width: 100%; background: red; border-top: 2px solid blue;}
+.clear {clear: both; width: 100%; border-top: 2px solid blue;}
 
 
 .text-left { text-align: left; }
