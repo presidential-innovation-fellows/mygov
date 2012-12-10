@@ -15,6 +15,8 @@ November is often a time for giving thanks, eating inordinate amounts of turkey,
 
 For Project MyGov, we're thankful that a mere 16 weeks after we met each other in Washington, DC, to begin our time as Presidential Innovation Fellows, we launched our first working prototype of the MyGov beta -- and nearly 600 folks signed up to kick the tires.
 
+<!-- more -->
+
 If you're late to the game, here's a quick primer on the project.
 
 ##MyGov - The Cliffs Notes version##
