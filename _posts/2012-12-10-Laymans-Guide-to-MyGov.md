@@ -27,7 +27,7 @@ For Project MyGov, we're thankful that a mere 16 weeks after we met each other i
 
 If you're late to the game, here's a quick primer on the project.
 
-##MyGov - The Cliffs Notes version##
+###MyGov - The Cliffs Notes version###
 
 1. Tasked with reimagining the relationship between the government and the people from a technology standpoint.
 2. Creating a platform to standardize how agencies interact with the people, focused around the public's needs, as opposed to the goverment's fragmented beauracracy. (We're defragging government, so to speak.)
