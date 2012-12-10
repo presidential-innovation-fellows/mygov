@@ -84,6 +84,8 @@ img.alignleft {padding: .25em; background: rgba(0,0,0,.05); border: 1px solid rg
 
 .thumbright {float: right; margin: 0 0 1em 1em;}
 
+.thumbright img {max-width: 40%;}
+
 @media only screen and (max-width: 540px) {
 
 .thumbright {width: 100%;  margin: 0 0 1em 0; float: none; display: block; background: #eee; padding: .2em; clear: both;}
