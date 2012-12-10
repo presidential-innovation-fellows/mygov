@@ -12,7 +12,7 @@ published: true
 ---
 
 <div class="thumbright">
-<img src="http://presidential-innovation-fellows.github.com/mygov/images/content/cupcakes.png" alt="cupcakes" />
+<img src="http://presidential-innovation-fellows.github.com/mygov/images/content/cupcakes.jpg" alt="cupcakes" />
 <p class="caption">Cupcakes for everyone at the launch of MyGov beta.</p>
 </div>
 
