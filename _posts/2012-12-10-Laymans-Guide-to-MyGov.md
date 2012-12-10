@@ -11,7 +11,15 @@ published: true
 
 ---
 
+<div class="thumbright">
+<img src="http://presidential-innovation-fellows.github.com/mygov/images/content/cupcakes.png" alt="cupcakes" />
+<p class="caption">Cupcakes for everyone at the launch of MyGov beta.</p>
+</div>
+
 November is often a time for giving thanks, eating inordinate amounts of turkey, watching football, and joining millions of people early one Friday morning to buy the same things you could get online from the comfort of your home. We're not judging on that last one, but as a tech-focused team we're simply reminding you that most websites offer free shipping.
+
+
+
 
 For Project MyGov, we're thankful that a mere 16 weeks after we met each other in Washington, DC, to begin our time as Presidential Innovation Fellows, we launched our first working prototype of the MyGov beta -- and nearly 600 folks signed up to kick the tires.
 

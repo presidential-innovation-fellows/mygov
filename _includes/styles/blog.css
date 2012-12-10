@@ -91,6 +91,8 @@ img.alignleft {padding: .25em; background: rgba(0,0,0,.05); border: 1px solid rg
 
 }
 
+p.caption {font-size: .85em; color: #555;}
+
 /*** Ribbon ***/
 
 img.ribbon {
