@@ -82,9 +82,7 @@ header h2.organization {
 
 img.alignleft {padding: .25em; background: rgba(0,0,0,.05); border: 1px solid rgba(0,0,0,.1); float: left; margin: 0 1em 1em 0;}
 
-.thumbright {float: right; margin: 0 0 1em 1em;}
-
-.thumbright img {max-width: 40%;}
+.thumbright {float: right; margin: 0 0 1em 1em; max-width: 40%;}
 
 @media only screen and (max-width: 540px) {
 
