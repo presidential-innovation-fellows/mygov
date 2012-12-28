@@ -1,6 +1,6 @@
 ---
 title: "We believe: the Project MyGov principles"
-description: "The 20 project and creative process principles Team MyGov created for their Presidential Innovation Fellows project."
+description: "The 21 project and creative process principles Team MyGov created for their Presidential Innovation Fellows project."
 author: "Kara DeFrias"
 layout: post
 comments: true
@@ -38,12 +38,14 @@ In re-reading them, we agreed it’s inspiring how many we stuck to.
 2.	**Treat every interaction as an opportunity to delight.** From pixels to copy, code to community, each part of the process should be a positive experience to engage and defy expectations.
 3.	**Design with emotion.** Actively engage users with a voice, tone and personality that fits the context of the interaction, and heightens and improves the experience.
 4.	**Always ask:** Are we solving for the right thing?
-5.	**Be lean and agile:** Use prototypes and experiments to validate learning and make data-informed decisions. Ship unfinished code and be prepared to fail fast.
-6.	**Embrace ignorance.** Run with our naiveté on government constraints as well as the public's lack of familiarity with the bureaucracy.
-7.	**Don’t unnecessarily handicap the creative process.** Say “Yes, and” instead of “no, but.”
-8.	**Meaningful deadlines are not arbitrary.** Milestones should have a purpose.
-9.	**No HIPPOs (highest paid person’s opinion).** Titles and hierarchy don’t impact weight of ideas.
-10.	**Meetings are the exception, not the rule.** Have a clear understanding of who the meeting is with, who they are, the purpose of the meeting, and the intended outcomes.
+5.  **Mobile first.** Bake responsive web design into the DNA - it's not an afterthought, but core to the experience.
+6.	**Be lean and agile:** Use prototypes and experiments to validate learning and make data-informed decisions. Ship unfinished code and be prepared to fail fast.
+7.	**Embrace ignorance.** Run with our naiveté on government constraints as well as the public's lack of familiarity with the bureaucracy.
+8.	**Don’t unnecessarily handicap the creative process.** Say “Yes, and” instead of “no, but.”
+9.	**Meaningful deadlines are not arbitrary.** Milestones should have a purpose.
+10.	**No HIPPOs (highest paid person’s opinion).** Titles and hierarchy don’t impact weight of ideas.
+11.	**Meetings are the exception, not the rule.** Have a clear understanding of who the meeting is with, who they are, the purpose of the meeting, and the intended outcomes.
 
 Regards,
-Th MyGov Presidential Innovation Fellows
+
+The MyGov Presidential Innovation Fellows
