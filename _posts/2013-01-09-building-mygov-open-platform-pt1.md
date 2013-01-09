@@ -38,4 +38,4 @@ No open platform can truly sustain or scale an ecosystem without a healthy relat
 
 ## Open for Feedback
 
-We’ve been trying to follow these principles ([and many others](http://presidential-innovation-fellows.github.com/mygov/2012/12/27/We-believe-Project-MyGov-principles/)) as best as we can while navigating the challenges of innovating within government, but we know we can always do better. Please let us know if you have any questions or feedback on our approach and please stay tuned for part two which will examine the suite of MyGov apps piece by piece in more technical detail.
+We’ve been trying to follow these principles ([and many others](http://presidential-innovation-fellows.github.com/mygov/2012/12/27/We-believe-Project-MyGov-principles/)) as best as we can while navigating the challenges of innovating within government, but we know we can always do better. Please let us know if you have any questions or feedback on our approach and please stay tuned for part two which will examine the suite of MyGov components piece by piece in more technical detail.
