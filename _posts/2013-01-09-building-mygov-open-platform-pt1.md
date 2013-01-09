@@ -22,7 +22,7 @@ A small-pieces-loosely-joined service-oriented architecture allows us to build m
 
 ## Open Source
 
-There's no reason to build everything from scratch, so we've been building on existing open source stacks and components wherever possible including Ruby on Rails and a common LAMP architecture on the backend as well as Foundation, JQuery, and Backbone on the frontend. Likewise, we're been [sharing our code](http://presidential-innovation-fellows.github.com/mygov/developer/) and we invite pull requests, bug reports, and feature requests. The value and potential of civic software is multiplied when it's truly treated as a public good. As the original description of the project states, MyGov will be "developed not just for the people, but also by the people." We also recognize the potential for other governments both local and international to reuse components of the MyGov platform. 
+There's no reason to build everything from scratch, so we've been building on existing open source stacks and components wherever possible including Ruby on Rails and a common LAMP architecture on the backend as well as Foundation, JQuery, and Backbone on the frontend. Likewise, we've been [sharing our code](http://presidential-innovation-fellows.github.com/mygov/developer/) and we invite pull requests, bug reports, and feature requests. The value and potential of civic software is multiplied when it's truly treated as a public good. As the original description of the project states, MyGov will be "developed not just for the people, but also by the people." We also recognize the potential for other governments both local and international to reuse components of the MyGov platform. 
 
 ## Open Data 
 
