@@ -151,8 +151,9 @@ img.ribbon {
 .post h5, 
 .post h6 {font-family: 'GoudyBookLetter', Helvetica, Georgia, serif; font-weight: normal; color: #112137;}
 
-.post a {color: #112137;}
+.post a {color: #1E5486;}
 
+.post a:hover {color: #112137;}
 
 .post ul {list-style-type: square;}
 
