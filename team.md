@@ -2,6 +2,7 @@
 layout: page
 title: The Team
 description: We’re the five Presidential Innovation Fellows working on Project MyGov. We’re citizens just like you who want to reimagine a better way for government and the people to interact.
+permalink: /team/
 ---
 
 *We're the five [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows) working on Project MyGov. We’re citizens just like you who want to reimagine a better way for government and the people to interact. Nice to meet you. Now let’s do this.*

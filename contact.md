@@ -2,6 +2,7 @@
 layout: page
 title: The Conversation
 description: At the core, we’re looking for ways to improve the way people and government connect at the most fundamental level and we want to hear from everyone, young and old, across the country. 
+permalink: /contact/
 ---
 
 At the core, we’re looking for ways to improve the way people and government connect at the most fundamental level and we want to hear from everyone, young and old, across the country. We also want to develop this collaboratively, so we want to hear from the civic hackers, the platform developers, the user experience gurus, the folks in technology, entertainment, design (TED, anyone?), and everyone in between.

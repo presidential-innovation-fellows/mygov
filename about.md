@@ -2,6 +2,7 @@
 title: The Project
 description: Project MyGov is one of five initiatives that are part of the White House Presidential Innovation Fellows program
 layout: page
+permalink: /about/
 ---
 
 Project MyGov is one of five initiatives that are part of the <a href="http://www.whitehouse.gov/innovationfellows">White House Presidential Innovation Fellows program</a>. This new program is bringing in top innovators from outside government to work with top innovators inside government to create real and substantial changes that will in a very short time frame benefit the American people, save taxpayers money, and help create new jobs.
