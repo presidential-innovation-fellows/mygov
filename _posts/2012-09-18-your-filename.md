@@ -45,8 +45,4 @@ If you think of the above as the "what" we're going after, here's the "how" - a 
 * Provides a consistent browsing experience via a persistent navigation bar that snaps to bottom of site, which includes easy access to MyGov profile and other relevant info.
 * Embeddable widget that provides contextual information for users while browsing any government website.
 
-**5. MyGov alerts and notifications**
-
-* Delivers opt-in alerts, notifications, and related content to people.
-
 More to come in the next few weeks of what this all will look and feel like.
