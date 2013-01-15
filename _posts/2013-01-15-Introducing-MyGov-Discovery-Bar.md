@@ -13,7 +13,7 @@ published: true
 
 *This is the first in a series of posts introducing each of the products we've been working on as part of Project MyGov.*
 
-The government web is two things: big, and distributed. (Did we mention big?)  The General Services Administration (GSA) runs [USA.gov](http://www.usa.gov)USA.gov, a central site that provides a top-level view into the government web. That works well if you're on USA.gov, but what if you're on some other part of the government web?  Shouldn't you be able to see other resources, programs, benefits, services, forms, etc. from across the federal government if they are relevant to what you're trying to accomplish?
+The government web is two things: big, and distributed. (Did we mention big?)  The General Services Administration (GSA) runs [USA.gov](http://www.usa.gov), a central site that provides a top-level view into the government web. That works well if you're on USA.gov, but what if you're on some other part of the government web?  Shouldn't you be able to see other resources, programs, benefits, services, forms, etc. from across the federal government if they are relevant to what you're trying to accomplish?
 
 Here at Project MyGov, we think the answer to that question is: “Yes.”
 
