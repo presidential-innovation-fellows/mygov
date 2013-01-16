@@ -28,14 +28,14 @@ So we built the MyGov Discovery Bar, which acts as a persistent tool to help you
 
 To do this, we've built the Discovery Bar to unobtrusively slide into view as you reach the end of a page. (We figure if you're that far down the page, you're ready for more information.)  We've tried to make it easy for you to control the experience, so if you feel like the bar is in the way, you can minimize or close it completely.
 
+We also want to help improve your overall experience when visiting government websites. If you expand the bar, a few options present themselves. You can view tags associated with the page you're looking at.  You can even add or edit tags to help make our service better. You can provide feedback to the government on the page you're viewing, and help us figure out which are the most helpful of our pages. And if you're just not finding what you're looking for, you can do a search across all the government web sites.
+
 <div style="text-align:center; width:100%;">
   <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/bar2.png">
   <img src="http://presidential-innovation-fellows.github.com/mygov/images/content/bar2-thumb.png" alt="All right Mr. DeMille, I'm ready for my close-up." />  
   </a>
   <p class="caption">All right Mr. DeMille, I'm ready for my close-up.</p>
 </div>
-
-We also want to help improve your overall experience when visiting government websites. If you expand the bar, a few options present themselves. You can view tags associated with the page you're looking at.  You can even add or edit tags to help make our service better. You can provide feedback to the government on the page you're viewing, and help us figure out which are the most helpful of our pages. And if you're just not finding what you're looking for, you can do a search across all the government web sites.
 
 We're working with agencies to get the Discovery Bar set up as a standard across the federal web; state and local governments are welcome to participate as well.  In the meantime, we're doing testing as part of our private beta, and will update here when the bar is more generally available. You can [sign up for the beta](http://bit.ly/mygovlincoln)sign up for the beta.
 
