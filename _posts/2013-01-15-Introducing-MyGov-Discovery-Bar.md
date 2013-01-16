@@ -5,8 +5,11 @@ author: "Team MyGov"
 layout: post
 comments: true
 sharing: true
-category: 
+category: Announcements
 tags: 
+  - Bar
+  - Discovery
+  - Screenshots
 published: true
 
 ---
