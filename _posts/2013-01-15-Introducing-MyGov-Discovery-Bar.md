@@ -40,7 +40,7 @@ We also want to help improve your overall experience when visiting government we
   <p class="caption">All right Mr. DeMille, I'm ready for my close-up.</p>
 </div>
 
-We're working with agencies to get the Discovery Bar set up as a standard across the federal web; state and local governments are welcome to participate as well.  In the meantime, we're doing testing as part of our private beta, and will update here when the bar is more generally available. You can [sign up for the beta](http://bit.ly/mygovlincoln)sign up for the beta.
+We're working with agencies to get the Discovery Bar set up as a standard across the federal web; state and local governments are welcome to participate as well.  In the meantime, we're doing testing as part of our private beta, and will update here when the bar is more generally available. You can [sign up for the beta](http://bit.ly/mygovlincoln).
 
 We’re pretty excited about the Discovery Bar, and think it’s a great step toward making the federal web even more user-centric.
 
