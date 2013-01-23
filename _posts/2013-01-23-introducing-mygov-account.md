@@ -28,19 +28,19 @@ In building the MyGov Account, we took a step back and tried to answer the quest
 
 Let's take a look.
 
-## Profile
+### Profile
 
 The core of your MyGov Account is your profile, which contains the basic, important information about you, and the type of things that you're going to need when interacting with government. When you fill out just about any form, you need to put in your name, address, and date of birth. When visiting a government website, the types of services and content you are looking for will be dependent on your personal situation (such as whether you’re married, a student, retired or a veteran, to name a few use cases).
 
 With your MyGov Profile, you can store this information securely in your MyGov Account. Then, when interacting with agencies, you can use this information to speed up filling out a form, or personalizing a website. Agencies have to request access to your Profile -- putting you in charge of who can access your MyGov profile information, and allowing you to revoke access at any time. We think that’s really important. After all, part of [our core principles](http://presidential-innovation-fellows.github.com/mygov/2012/12/27/We-believe-Project-MyGov-principles) is to put the public’s needs first, and we think this fulfills that.
 
-## Tasks
+### Tasks
 
 In interacting with government, things can get a little complex. Sometimes you need to fill out a whole bunch of forms just to accomplish what is, from your perspective, a single simple task. We want to make your life easier, and at the same time provide tools that help agencies do their job better. So, we introduced the idea of Tasks into your MyGov Account.
 
 With Tasks, an agency can create a dialogue that walks you through a complex set of steps to accomplish a goal. Let's say you need to renew your passport. It's a hairy process, but with a little information and the MyGov Tasks feature, you get personalized step-by-step instructions to follow to complete your transaction with the government. And, since this is part of your MyGov Account, you have control over which agencies can create tasks for you.
 
-## Notifications
+### Notifications
 
 Every time you sign up for a website, you’re taking a gamble that the site isn't going to spam your inbox with emails that are only marginally relevant to you. You often have control over this, but managing email from hundreds of sites is a pain -- not to mention a horrible experience. While we can't fix this problem for the whole internet, we can do our best to address it within government.
 
@@ -48,24 +48,24 @@ With MyGov Notifications, agencies can send you a notification, but you control 
 
 As an example, let's say you use a MyGov-enabled website to figure out which federal benefits you qualify for. Six months later, a new benefit is made available that you're eligible for. Currently, there's no way for the government to let you know you could be taking advantage of this new program. With Notifications, the benefits app can update you with the new information and hopefully make your life better.
 
-## Forms
+### Forms
 
 Forms are the primary way by which a government interacts with its citizens: if you need some service from the government, you fill out a form. We think of forms as an API into government: provide some input, it gets processed, and returns a response. We'll go into detail later with more on the full scope of what we're working with forms (because it's big, trust us).
 
 If you've ever had to fill out the same form twice, you know that most of the information is going to be the same. So it'd be great if you had a history of the forms you filled out, and could re-use any applicable information. And what if submitting a form was more than just "fill it out and send it in" (stay with us here). What if you received status updates to your MyGov Account when your form was received, or processed, or if more information was required. All these things will be possible with your MyGov Account and forms history.
 
-## Apps
+### Apps
 
 With the MyGov Citizen API, we envision a rich ecosystem of services available to users: what we're calling MyGov Apps. From within your MyGov Account, you'll be able to browse MyGov Apps (we'll also do our best to connect you with apps that are relevant to your needs), and manage the access those apps have to you through your account. If you decide that you don't want a particular app to have access to your Profile, or to be able to send you notifications, just revoke the app's access.
 
-## Local, state, and federal Info
+### Local, state, and federal Info
 
 American democracy is complex, and your MyGov account gives you the information you need to navigate it. While most people are well acquainted with the basics of their national government and the Presidency, many are less aware of their governing bodies, services, or officials at the state, county, and municipal level. The MyGov account helps bring you all of that information in one place. It's essential to know who your representatives in government are. From the President of the United State (POTUS) to your local county and state representatives (in some cases even city mayors and council members), we've included this information for you in your MyGov account, and will continue to provide more valuable and personalized information as we grow the service.
 
-## For Agencies: MyGov Citizen API
+### For Agencies: MyGov Citizen API
 
 That's the MyGov Account from the citizen perspective. From the agency perspective, these features are available as the MyGov Citizen API, which is an API for government to interact with citizens. Agencies can create apps that, after authorization from a citizen, can access their profile, assign them tasks, send them notifications, and submit forms on their behalf.
 
-## In closing
+### In closing
 
 The above summarizes what we've built out in the context of our six month Presidential Innovation Fellows project. For the public, you can [sign up](https://my.usa.gov) and you’ll be set up with a new account once we've gone through all the legal requirements to allow access to the public. For developers, you can check out the source code on [Github](https://github.com/gsa-ocsit/mygov-account), and we'll be publishing details on how to get an API key and begin working with the MyGov Citizen API to create apps.
