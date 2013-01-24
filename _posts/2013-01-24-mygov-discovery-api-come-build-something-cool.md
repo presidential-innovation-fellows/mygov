@@ -1,5 +1,5 @@
 ---
-title: Introducing the MyGov Discovery API: Come Build Something Cool
+title: "Introducing the MyGov Discovery API: Come Build Something Cool"
 description:
 author: Benjamin J. Balter
 layout: post
