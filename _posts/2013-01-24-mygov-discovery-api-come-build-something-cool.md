@@ -1,5 +1,5 @@
 ---
-title: "Introducing the MyGov Discovery API — Come Build Something Cool"
+title: "Introducing the MyGov Discovery API: Come Build Something Cool"
 description: "The Discovery API layers a folksonomy on top of the entire .gov landscape, allowing developers to query pages by keyword or to find content related to a given page."
 author: "Benjamin J. Balter"
 layout: post
