@@ -23,7 +23,7 @@ Thy MyGov Discovery API exposed all the information that's normally available vi
 
 So what can the Discovery API do? Currently, the federal .gov footprint is organized around the structure of government. If a citizen wants to complete a given task, they have to know what agency to go to, and often times, what beureau within that agency. The Discovery API layers a [folksonomy](wikipedia link) on top of the entire .gov landscape allowing developers to query pages by keyword, or more importantly, to find content related to a given page. 	
 
-Think about it this way: If you're changing your name, say, if you're getting married, you're probably going to want a new passport, but if we knew that task was also closely related to getting a new social security card or drivers license, at least we could point you in the right direction. But that's not the only way the Discovery API can be used. What if you want a listing of the top government content by tag, or a timely subject? Just query the Discovery API by tag.
+Think about it this way: If you're changing your name,(perhaps you're getting married), you're probably going to want a new passport, but if we knew that task was also closely related to getting a new social security card or drivers license, at least we could point you in the right direction. But that's not the only way the Discovery API can be used. What if you want a listing of the top government content by tag, or a timely subject? Just query the Discovery API by tag.
 
 
 ### Under the Hood
