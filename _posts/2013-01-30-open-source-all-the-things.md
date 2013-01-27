@@ -7,12 +7,11 @@ comments: true
 sharing: true
 category: Announcements
 tags:
-	- Open Source
-	- Developers
-	- Community
-	- Code
+ - Open Source
+ - Developers
+ - Community
+ - Code
 published: false
-
 ---
 
 <div class="thumbright">
