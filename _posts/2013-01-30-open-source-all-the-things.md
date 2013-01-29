@@ -52,3 +52,7 @@ MyGov began its journey by setting out to improve the way citizens interact with
 ### Farewell
 
 This is our final post as Team MyGov. It's been a great 6 months, and we appreciate all your help, support, and feedback along the way as we worked on our project. There's more to come from MyGov in the future, but for now: so long, and thanks for all the fish.
+
+Regards,
+Phil Ashlock, Ben Balter, Danny Chapman, Kara DeFrias & Greg Gershman
+Presidential Innovation Fellows v1
