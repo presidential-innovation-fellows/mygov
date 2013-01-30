@@ -41,6 +41,8 @@ At its core however, open source is about community, not technology. Today we'd 
 
 * [PDF Filler](https://github.com/GSA-OCSIT/pdf-filler)
 * [Mobile First Foundation](https://github.com/GSA-OCSIT/mygov-mobile-first-foundation)
+* [DemocracyMap](https://github.com/GSA-OCSIT/democracymap-restserver)
+* [DataBeam](https://github.com/GSA-OCSIT/DataBeam)
 * [EPA UV Rest API](https://github.com/GSA-OCSIT/epa_uv_index)
 * [MyGov OmniAuth Strategy](https://github.com/GSA-OCSIT/omniauth-mygov)
 * [This blog](https://github.com/presidential-innovation-fellows/mygov)
