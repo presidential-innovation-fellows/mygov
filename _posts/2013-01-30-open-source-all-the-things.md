@@ -1,7 +1,7 @@
 ---
 title: Open Source *All* The Things
 description:
-author: Team MyGov
+author: Team MyUSA
 layout: post
 comments: true
 sharing: true

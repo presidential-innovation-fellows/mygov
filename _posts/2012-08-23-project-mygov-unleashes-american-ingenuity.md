@@ -2,7 +2,7 @@
 title: Project MyGov Unleashes American Ingenuity to Tackle Relationship Between People and Government 
 description: Project MyGov, one of the Presidential Innovation Fellows initiatives, asks for people's input on reimagining the relationship between government and the public.
 layout: post
-author: Team MyGov
+author: Team MyUSA
 comments: true
 sharing: true
 category: Announcements
