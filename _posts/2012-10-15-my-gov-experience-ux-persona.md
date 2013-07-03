@@ -12,11 +12,9 @@ published: true
 ---
 
 <div class="alignright" markdown="1">
-
-<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Robot"></a><br />
-
-Humans aren't robots. Why do we talk to them like they are? Photo: [JohnGreenaway](http://www.flickr.com/photos/johngreenaway/3356358479)
-
+  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Robot"></a>
+  <br />
+  Humans aren't robots. Why do we talk to them like they are? Photo: [JohnGreenaway](http://www.flickr.com/photos/johngreenaway/3356358479)
 </div>
 
 Humans create websites for other humans to read. So when did we start talking to people like they're robots? Raise your hand if you've ever seen this message on your computer screen:
@@ -40,11 +38,9 @@ One way to address this issue before someone even sees this error is to have an 
 Each of these things is an experience, an opportunity to delight people.
 
 <div class="alignright" markdown="1">
-
-<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier-thumb.jpg" alt="Tower of Terror Loby"></a><br />
-
-Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Javier](http://www.flickr.com/photos/lorenjavier/6661295397)
-
+  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier-thumb.jpg" alt="Tower of Terror Loby"></a>
+  <br />
+  Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Javier](http://www.flickr.com/photos/lorenjavier/6661295397)
 </div>
 
 Disney does a great job of creating memorable, immersive experiences. Even when you're doing something mundane like waiting in line (or queue, as our friends across the pond would say), the attention to detail shines through. Take the Hollywood Tower of Terror, for example, a free fall attraction based on the TV show *The Twilight Zone*. Upon walking up to the ride, you're instantly transported from sunny Southern California to a creepy place where something's clearly gone wrong.  From the vines crawling up the columns to the dust on the desks in the hotel lobby, they've thought of everything. This makes the time spent waiting in line somewhat interactive, and puts you into the right frame of mind for what you're about to experience.
@@ -54,11 +50,9 @@ Taking that holistic view is how we approached MyGov.
 ### The research behind the MyGov experience persona
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
-
-<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias-thumb.jpg" alt="Library of Congress"></a><br />
-
-Caption: Beautiful day for research at Library of Congress. Photo: [source](https://twitter.com/californiakara)
-
+  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias-thumb.jpg" alt="Library of Congress"></a>
+  <br />
+  Caption: Beautiful day for research at Library of Congress. Photo: [source](https://twitter.com/californiakara)
 </div>
 
 Project MyGov's goal is to reimagine the relationship between the government and the people, taking what is currently an agency-focused model and making it more centered around people's needs. We decided early on it was critical to the MyGov UX to study how the government historically communicated with people, and how people talked to the government. To that end, we conducted research at the Library of Congress and National Archives. (It also informed the [MyGov design and UI](http://bit.ly/mygovdesign).) I've spent time pouring over the research in order to create the experience persona.
@@ -72,11 +66,9 @@ There was a bit of an a-ha moment when looking at these posters: back then, they
 ### MyGov experience persona highlights
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
-
-<a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias-thumb.jpg" alt="Tan Docs"></a><br />
-
-An original Democratic Party ticket and Colony of New Hampshire broadsheet. Photo: [source](https://twitter.com/californiakara)
-
+  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias-thumb.jpg" alt="Tan Docs"></a>
+  <br />
+  An original Democratic Party ticket and Colony of New Hampshire broadsheet. Photo: [source](https://twitter.com/californiakara)
 </div>
 
 There are six parts to an experience persona: Overview, Brand Traits, Personality Map, Voice, Visual Lexicon, and Engagement Methods. A few bits highlights called out below. (Hat tip to Aarron Walter for his [design persona template](http://aarronwalter.com/design-personas/) - it rocks!)

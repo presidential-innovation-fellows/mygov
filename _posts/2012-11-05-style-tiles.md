@@ -12,17 +12,11 @@ published: true
 ---
 
 <div class="thumbright" id="Gallery">
-
-<a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v1.png"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/styletiles-thumb.jpg" alt="Style Tiles" /></a>
-  
-<a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v2.png" style="display: none;" alt="style tiles"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v2.png" style="display: none;" alt="style tiles" /></a>
-
-<a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v3.png" style="display: none;"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v3.png" style="display: none;" alt="style tiles" /></a>
-
-<a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v4.png" style="display: none;"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v4.png" style="display: none;" alt="style tiles" /></a>
-
-<p>View the style tiles &rarr;</p>
-
+  <a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v1.png"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/styletiles-thumb.jpg" alt="Style Tiles" /></a>
+  <a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v2.png" style="display: none;" alt="style tiles"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v2.png" style="display: none;" alt="style tiles" /></a>
+  <a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v3.png" style="display: none;"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v3.png" style="display: none;" alt="style tiles" /></a>
+  <a rel="lightbox" class="slideshow" href="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v4.png" style="display: none;"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/style-tile-v4.png" style="display: none;" alt="style tiles" /></a>
+  <p>View the style tiles &rarr;</p>
 </div>
 
 A project with a scope as big as MyGov requires lofty ideals. Invoking patriotism without partiasanship, pride without boasting, and classical ideals while appearing contemporary -- all part our charge of reimagining the relationship between government and the people. To that end, we wanted to share the where the visual direction MyGov is heading. I've been working hard the past several weeks distilling our research at both the Library of Congress and National Archives into style tiles. 
