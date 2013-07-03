@@ -13,7 +13,7 @@ tags:
  - API
  - Forms
  - Round 2
-published: false
+published: true
 ---
 
 Hello!  I know it's been a while, but seeing as how we just kicked off the second round of the Presidential Innovation Fellowship, I thought I'd take the opportunity to post a quick update on Project MyUSA.  Things have been going quite well, and we've got some amazing stuff in the works over the next few months.
