@@ -59,5 +59,5 @@ In addition, we're very happy to have the support of the [USA.gov](http://www.us
 
 And with that, let Round 2 of Project MyUSA begin!  Please be in touch if you have any thoughts, ideas or questions, and keep your eye out for more regular updates soon!
 
-Twitter [@ProjectMyUSA](https://twitter.com/ProjectMyUSA)
+Twitter [@ProjectMyUSA](https://twitter.com/ProjectMyUSA)  
 Facebook [Project MyUSA](https://www.facebook.com/ProjectMyUSA)
