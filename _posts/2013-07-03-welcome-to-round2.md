@@ -1,5 +1,5 @@
 ---
-title: Project MyUSA":" Welcome to Round 2!
+title: "Project MyUSA: Welcome to Round 2!"
 description:
 author: Greg Gershman
 layout: post
